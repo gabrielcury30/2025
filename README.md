@@ -16,8 +16,8 @@ See https://jekyllrb.com/docs/installation/
 
 ### View locally
 
-* `git clone git@github.com:openstreetmap/stateofthemap-2022.git`
-* `cd stateofthemap-2022`
+* `git clone git@github.com:sotm-br/2025.git`
+* `cd 2025`
 * `jekyll serve -wl`
 * Point your browser to `http://localhost:4000/`
 
@@ -28,8 +28,8 @@ Alternatively you can use Docker to install Jekyll and to serve the site within 
 ### Using docker-compose
 
 * [Install docker-compose](https://docs.docker.com/compose/install/)
-* `git clone git@github.com:openstreetmap/stateofthemap-2022.git`
-* `cd stateofthemap-2022`
+* `git clone git@github.com:sotm-br/2025.git`
+* `cd 2025`
 * `docker-compose up --build`
 * Point your browser to `http://localhost:4000/`
 
