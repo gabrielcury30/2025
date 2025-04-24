@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.7.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<bounds minlat="-25.457043599999999" minlon="-49.235890800000000" maxlat="-25.448443200000000" maxlon="-49.229927600000003"/>                                   
+</metadata>
+<wpt lat="-25.45057" lon="-49.23248">
+  <name>Auditório da Administração</name>
+</wpt>
+<wpt lat="-25.45308" lon="-49.23322">
+  <name>Laboratório de Cartografia</name>
+</wpt>
+<wpt lat="-25.4496358" lon="-49.2348936">
+  <name>Restaurante Universitário</name>
+</wpt>
+<wpt lat="-25.4522531" lon="-49.2299276">
+  <name>Estação tubo Jardim das Américas</name>
+</wpt>
+<wpt lat="-25.4516417" lon="-49.2299769">
+  <name>Entrada de pedestres</name>
+</wpt>
+<wpt lat="-25.4491176" lon="-49.2305801">
+  <name>Entrada de veículos pela BR-277</name>
+</wpt>
+<wpt lat="-25.4535204" lon="-49.2329184">
+  <name>Entrada de veículos pela rua Amoroso Costa</name>
+</wpt>
+<wpt lat="-25.4484432" lon="-49.235006">
+  <name>Passarela para o câmpus Jardim Botânico</name>
+</wpt>
+<wpt lat="-25.4570436" lon="-49.2358908">
+  <name>Entrada pelo SEPT</name>
+</wpt>
+<wpt lat="-25.452433428963914" lon="-49.2287451040118">
+  <name>Casa Verde Deck Bar</name>
+</wpt>
+<rte>
+  <name>Entre pelo portão de pedestres e siga em frente. Atravesse a rua e siga até a passarela do prédio da Administração. No térreo, entre nos elevadores ou escadas e suba até o 2º andar. O auditório fica no meio do corredor.</name>
+  <rtept lat="-25.4516417" lon="-49.2299769">
+  </rtept>
+  <rtept lat="-25.4516426" lon="-49.2299944">
+  </rtept>
+  <rtept lat="-25.4510323" lon="-49.2316343">
+  </rtept>
+  <rtept lat="-25.4510196" lon="-49.2316452">
+  </rtept>
+  <rtept lat="-25.4510041" lon="-49.2316487">
+  </rtept>
+  <rtept lat="-25.4509739" lon="-49.2316367">
+  </rtept>
+  <rtept lat="-25.4509388" lon="-49.2317325">
+  </rtept>
+  <rtept lat="-25.4509639" lon="-49.2317449">
+  </rtept>
+  <rtept lat="-25.4509707" lon="-49.2317556">
+  </rtept>
+  <rtept lat="-25.450972" lon="-49.2317679">
+  </rtept>
+  <rtept lat="-25.4507416" lon="-49.2323827">
+  </rtept>
+  <rtept lat="-25.450659" lon="-49.2323449">
+  </rtept>
+  <rtept lat="-25.4506629" lon="-49.232334">
+  </rtept>
+  <rtept lat="-25.450602168929496" lon="-49.232494808272925">
+  </rtept>
+  <rtept lat="-25.45057" lon="-49.23248">
+  </rtept>
+</rte>
+<rte>
+  <name>Entre pela porta embaixo da passarela e siga pelo zigue-zague dos corredores. No final, subas às escadas, vire à esquerda e siga até o Laboratório de Cartografia. Também é possível chegar por fora do prédio, entrando pelas portas laterais do corredor.</name>
+  <rtept lat="-25.4507416" lon="-49.2323827">
+  </rtept>
+  <rtept lat="-25.4507343" lon="-49.2324019">
+  </rtept>
+  <rtept lat="-25.450833" lon="-49.2324477">
+  </rtept>
+  <rtept lat="-25.4513411" lon="-49.2326822">
+  </rtept>
+  <rtept lat="-25.4513818" lon="-49.2325742">
+  </rtept>
+  <rtept lat="-25.45172" lon="-49.2327265">
+  </rtept>
+  <rtept lat="-25.4516786" lon="-49.2328365">
+  </rtept>
+  <rtept lat="-25.4520132" lon="-49.2329863">
+  </rtept>
+  <rtept lat="-25.4520538" lon="-49.2328784">
+  </rtept>
+  <rtept lat="-25.4523874" lon="-49.233035">
+  </rtept>
+  <rtept lat="-25.4523483" lon="-49.2331389">
+  </rtept>
+  <rtept lat="-25.4526859" lon="-49.2332904">
+  </rtept>
+  <rtept lat="-25.4527251" lon="-49.2331862">
+  </rtept>
+  <rtept lat="-25.4530201" lon="-49.2333199">
+  </rtept>
+  <rtept lat="-25.4530285" lon="-49.2332966">
+  </rtept>
+  <rtept lat="-25.453012" lon="-49.2332889">
+  </rtept>
+  <rtept lat="-25.4530084" lon="-49.2332984">
+  </rtept>
+  <rtept lat="-25.453068360743959" lon="-49.233324542216444">
+  </rtept>
+  <rtept lat="-25.453103756334233" lon="-49.233230605046799">
+  </rtept>
+  <rtept lat="-25.45308" lon="-49.23322">
+  </rtept>
+</rte>
+<rte>
+  <name>Desça até o térreo e vire à direita. Siga em frente, atravesse duas ruas e vire na diagonal. Lá na frente estará a entrada do Restraurante Universitário, mas é provável que já tenha uma fila no meio.</name>
+  <rtept lat="-25.450602168929496" lon="-49.232494808272925">
+  </rtept>
+  <rtept lat="-25.4505429" lon="-49.2326524">
+  </rtept>
+  <rtept lat="-25.4505472" lon="-49.232641">
+  </rtept>
+  <rtept lat="-25.4506305" lon="-49.2326791">
+  </rtept>
+  <rtept lat="-25.4504784" lon="-49.2330789">
+  </rtept>
+  <rtept lat="-25.4502797" lon="-49.2336149">
+  </rtept>
+  <rtept lat="-25.4502731" lon="-49.2336318">
+  </rtept>
+  <rtept lat="-25.4502581" lon="-49.2336482">
+  </rtept>
+  <rtept lat="-25.4502174" lon="-49.233742">
+  </rtept>
+  <rtept lat="-25.4501761" lon="-49.2338514">
+  </rtept>
+  <rtept lat="-25.4500139" lon="-49.2338915">
+  </rtept>
+  <rtept lat="-25.4496358" lon="-49.2348936">
+  </rtept>
+</rte>
+</gpx>

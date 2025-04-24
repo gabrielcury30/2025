@@ -1,0 +1,17 @@
+{
+  "talks": [
+    {
+      "code": "QFUTA7",
+      "title": "Opening Session",
+      "abstract": "Sessão de Abertura",
+      "speakers": [
+        "YNFKER"
+      ],
+      "track": null,
+      "start": "2023-10-02T10:00:00+02:00",
+      "end": "2023-10-02T10:20:00+02:00",
+      "room": 0
+    }
+
+  ]
+}

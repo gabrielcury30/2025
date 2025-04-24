@@ -1,0 +1,7 @@
+verde padrão: #6ed487
+verde linha: #57c271
+verde claro: #a5e8b6
+cinza: #525252 ou 32%
+
+fonte do logo: Barlow
+fonte padrão: Open Sans
