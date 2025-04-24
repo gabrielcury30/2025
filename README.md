@@ -1,6 +1,6 @@
-# State of the Map Brasil 2023 Website
+# State of the Map Brasil 2025 Website
 
-  cópia (fork do repositório do evento global do ano passado!)
+  cópia (fork do repositório do evento de 2023!)
 
 ###
 
