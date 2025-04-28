@@ -16,4 +16,4 @@ Se um participante se envolver em comportamento de assédio, os organizadores da
 Esperamos que os participantes sigam essas regras em todos os Locais da conferência e eventos relacionados à conferência!
 Informações de Contato
 
-Você pode enviar um e-mail para a equipe organizadora do State of the Map Brasil com quaisquer preocupações em sotmbrasil2023@gmail.com.
+Você pode enviar um e-mail para a equipe organizadora do State of the Map Brasil com quaisquer preocupações em sotmbrasil2025@gmail.com.
