@@ -7,7 +7,7 @@ headings: "conference-Local,getting-to,food,accommodation,sights"
 
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
 
-O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração, conforme indicado:
+O State of the Map Brasil 2025 Será Realizado no Tribunal De Justiça Do Estado Da Bahia
 
 ### clique na imagem para abrir o mapa na versão interativa!!
 
@@ -59,18 +59,18 @@ Outra atração popular é o [Trem da Serra do Mar](https://serraverdeexpress.co
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([-25.45055,-49.23235], 13);
+    var map = L.map('map').setView([-12.946156,-38.433925], 13);
     L.control.scale().addTo(map);
     L.tileLayer('{{ site.map_tiles.url}}', {
       attribution: '{{ site.map_tiles.attribution }}',
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
     map.scrollWheelZoom.disable();
-    L.marker([ -25.4505655, -49.2324812], {icon: L.icon({
+    L.marker([ -12.946156,-38.433925], {icon: L.icon({
       iconUrl: "{{ "/img/logo/sotm_br-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
       iconAnchor: [20, 40]
-    })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/node/11142398666' target='_blank'>Open location on osm.org</a>.</p><p>Mapa detalhado:<a href='https://sotm-br.github.io/2023/venue/map' target='_blank'>aqui!</a>.</p>").addTo(map);
+    })}).bindPopup("<h3>Tribunal De Justiça Do Estado Da Bahia</h3><p>Local do Evento <a href='https://www.openstreetmap.org/way/1375080142' target='_blank'>Open location on osm.org</a>.</p><p>Mapa detalhado:<a href='https://sotm-br.github.io/2023/venue/map' target='_blank'>aqui!</a>.</p>").addTo(map);
 
 
 
