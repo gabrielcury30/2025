@@ -1,111 +1,51 @@
- <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top  {% if page.role != "index" %} top-nav-collapse stay-collapsed {% endif %}" role="navigation">
-        <div class="limiter">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <span class="icon menu"></span>
-                </button>
-                <a class="navbar-brand" href="{{site.baseurl}}/">
-                 State of the Map Brasil 2023
-                </a>
-            </div>
-
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <li class="hidden">
-                        <a class="page-scroll" href="#page-top"></a>
-                    </li>
-                    <!--<li>
-                        <a class="{% if page.url contains '/calls/general' %}active{% endif %}" href="{{site.baseurl}}/calls/general">Call for Participation</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/calls/academic' %}active{% endif %}" href="{{site.baseurl}}/calls/academic">Call for Academic Track</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/travel_grant_Programação' %}active{% endif %}" href="{{site.baseurl}}/travel_grant_Programação">Travel Grants</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/calls/posters' %}active{% endif %}" href="{{site.baseurl}}/calls/posters">Call for Posters</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/calls/translators' %}active{% endif %}" href="{{site.baseurl}}/calls/translators">Call for Translators</a>
-                    </li>-->
-                    <!--<li>
-                        <a href="https://blog.openstreetmap.org/2020/01/18/sotm2020-applications-for-scholarships-open/">Apply for Scholarship</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/tickets' %}active{% endif %}" href="{{site.baseurl}}/tickets/">Tickets</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/stream' %}active{% endif %}" href="{{site.baseurl}}/stream/">Live Stream</a>
-                    </li>-->
-
-                    <!--<li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#streaming">Videos</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#streaming">Videos</a>
-                      {% endif %}
-                    </li>-->
-                    <li>
-                        <a class="{% if page.url contains '/programme' %}active{% endif %}" href="{{site.baseurl}}/programme/">Programação</a>
-                    </li>
-                    <!--<li>
-                        <a class="{% if page.url contains '/academic_Programação' %}active{% endif %}" href="{{site.baseurl}}/academic_Programação/">Academic Programação</a>
-                    </li>-->
-
-                    <!-- <li>
-                      <a class="{% if page.url contains '/posters' %}active{% endif %}" href="{{site.baseurl}}/posters">Informações Adicionais</a>
-                    </li> -->
-
-                    <!-- <li>
-
-                        <a class="{% if page.url contains '/events' %}active{% endif %}" href="{{site.baseurl}}/events/">Social Event</a>
-                    </li> -->
-                    <!--<li>
-                      <a href="https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022/registration_lightning_talks">Call for Lightning Talks</a>
-                    </li>-->
-                    <li>
-                        <a class="{% if page.url contains '/venue' %}active{% endif %}" href="{{site.baseurl}}/venue/">Local</a>
-                    </li>
-
-                    <li>
-                        <a class="{% if page.url contains '/posters' %}active{% endif %}" href="{{site.baseurl}}/posters/">Publicações</a>
-                    </li>
-                  
-                    <li>
-                        <a class="{% if page.url contains '/presentations' %}active{% endif %}" href="{{site.baseurl}}/presentations/">Apresentações</a>
-                    </li>
-                    <!--<li>
-                        <a class="{% if page.url contains '/faq' %}active{% endif %}" href="{{site.baseurl}}/faq/">FAQ</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/artwork' %}active{% endif %}" href="{{site.baseurl}}/artwork/">Artwork</a>
-                    </li>-->
-                    <!--<li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#newsletter">Newsletter</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#newsletter">Newsletter</a>
-                      {% endif %}
-		    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/sponsoring' %}active{% endif %}" href="{{site.baseurl}}/sponsoring/">Sponsoring</a>
-                    </li>-->
-                    <li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#sponsors">Patrocinadores e Parcerias</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#sponsors">Patrocinadores e Parcerias</a>
-                      {% endif %}
-                    </li>
-                    <!--<li>
-                        <a class="{% if page.url contains '/attending' %}active{% endif %}" href="{{site.baseurl}}/attending/">Attending</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/codeofconduct' %}active{% endif %}" href="{{site.baseurl}}/codeofconduct">Code of conduct</a>
-                    </li>-->
-                </ul>
-            </div>
+<!-- Navigation -->
+<nav class="navbar navbar-custom navbar-fixed-top  {% if page.role != " index" %} top-nav-collapse stay-collapsed {%
+    endif %}" role="navigation">
+    <div class="limiter">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <span class="icon menu"></span>
+            </button>
+            <a class="navbar-brand" href="{{site.baseurl}}/">
+                State of the Map Brasil 2023
+            </a>
         </div>
-    </nav>
+
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <li class="hidden">
+                    <a class="page-scroll" href="#page-top"></a>
+                </li>
+
+                <li>
+                    <a class="{% if page.url contains '/programme' %}active{% endif %}"
+                        href="{{site.baseurl}}/programme/">Programação</a>
+                </li>
+
+                <li>
+                    <a class="{% if page.url contains '/venue' %}active{% endif %}"
+                        href="{{site.baseurl}}/venue/">Local</a>
+                </li>
+
+                <li>
+                    <a class="{% if page.url contains '/posters' %}active{% endif %}"
+                        href="{{site.baseurl}}/posters/">Publicações</a>
+                </li>
+
+                <li>
+                    <a class="{% if page.url contains '/presentations' %}active{% endif %}"
+                        href="{{site.baseurl}}/presentations/">Apresentações</a>
+                </li>
+
+                <li>
+                    {% if page.role == 'index' %}
+                    <a class="page-scroll" href="#sponsors">Patrocinadores e Parcerias</a>
+                    {% else %}
+                    <a class="" href="{{site.baseurl}}/#sponsors">Patrocinadores e Parcerias</a>
+                    {% endif %}
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>

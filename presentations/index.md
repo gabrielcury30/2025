@@ -20,14 +20,14 @@ headings: "13,5,19,7,6,10,22,11,8,17,1,4,2,21,15,20,14,9,16,18,3,12"
   -->
 
 
-Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmente disponibilizadas pelos(as) autores(as). Para acessar as publicações (volume de anais e pôsteres, <a href="https://sotm-br.github.io/2023/posters/" target="_blank">clique aqui</a>).
+Arquivos das apresentações realizadas no SotM Brasil 2025, que foram gentilmente disponibilizadas pelos(as) autores(as). Para acessar as publicações (volume de anais e pôsteres, <a href="https://sotm-br.github.io/2023/posters/" target="_blank">clique aqui</a>).
 
 ## Apresentações (por ordem alfabética)
 *Clique nas imagens para baixar os arquivos em formato PDF!*
 <hr>
 
 <!-- apresentacoes ordenadas alfabeticamente de A a Z -->
-<!-- lista atualizada em 27 out 2023 aguardando os demais que porventura enviarem -->
+<!-- lista atualizada em 27 out 2025 aguardando os demais que porventura enviarem -->
 
 <h3 id="13">AUTOMATIZAÇÃO DO PROCESSO DE IMPORTAÇÃO E CONFLAÇÃO MASSIVA NO OPENSTREETMAP</h3>
 *Matheus Gomes Correia, Kauê de Moraes Vestena, Gustavo Soares, Silvana Phillipi Camboim e Adelino Ferreira*
