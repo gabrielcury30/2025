@@ -76,24 +76,3 @@ Outra atração popular é visitar o município de Mata de São João, na locali
 
   }, false);
 </script>
-
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var map2 = L.map('map').setView([-12.999407/-38.510765], 13);
-    L.control.scale().addTo(map2);
-    L.tileLayer('{{ site.map_tiles.url}}', {
-      attribution: '{{ site.map_tiles.attribution }}',
-      maxZoom: {{ site.map_tiles.maxZoom}}
-    }).addTo(map2);
-    map2.scrollWheelZoom.disable();
-    L.marker([-12.999407/-38.510765], {icon: L.icon({
-      iconUrl: "{{ "/img/logo/sotm_br-logo.svg" | prepend: site.baseurl }}",
-      iconSize: [40, 40],
-      iconAnchor: [20, 40]
-    })}).bindPopup("<h3>Escola Politécnica da UFBA</h3><p>Local dos Treinamentos <a href='https://www.openstreetmap.org/way/87547054' target='_blank'>Open location on osm.org</a>.</p><p>Mapa detalhado:<a href='https://sotm-br.github.io/2025/venue/map' target='_blank'>aqui!</a>.</p>").addTo(map2);
-
-
-
-  }, false);
-</script>
