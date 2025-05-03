@@ -26,11 +26,12 @@ As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 20
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
 Para chegar no Tribunal de Justiça do Estado da Bahia, a partir da região litorânea ou do centro da cidade:
-* Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu - A partir da Estação de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça
+* Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu - A partir da Estação de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
+  
+ [atualizar linhas de onibus]
 * Linha **[469 - Centro Politécnico](https://goo.gl/maps/W9y2srwJcDATgp8M8)**
 * Linha **[303 - Centenário / C. Comprido](https://goo.gl/maps/UevNqTyEXx68wTbY9)**
-* 
-
+  
 * É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
 
 O **Aeroporto Luís Eduardo Magalhães** tem conexão com a linha 2 do metrô na Estação Aeroporto, fazendo conexão com outras áreas da cidade.
