@@ -14,7 +14,7 @@ headings: "call, submit"
 Em 2025, a submissão, avaliação e publicação do <b>Academic Track</b> do State of the Map <b>Latin America</b> e do State of the Map <b>Brasil</b> serão integradas para facilitar a participação de toda a comunidade. As chamadas para propostas, avaliações e comitê científico serão unificadas (respeitando algumas especificidades - atenção ao quadro síntese a seguir) e a divulgação dos resultados será em um único anais, na plataforma Zenodo, com DOI, garantindo mais visibilidade e sinergia entre os eventos.
 Convidamos toda a comunidade a submeter seus trabalhos e a participar dessa <b>celebração conjunta do OpenStreetMap na América Latina e no Brasil</b>!!!
 
-O <b>State of the Map Brasil 2025</b>, será realizado integrado ao <b>GeoPublica</b> (https://geopublica.ide.ba.gov.br/) de <b>16 a 19 de setembro de 2025<b>, em <b>Salvador-Bahia</b>, em formato presencial. Esta é uma convocatória para todos os mapeadores, pesquisadores e usuários de dados que desejam compartilhar suas reflexões, experiências e trabalhos científicos.
+O <b>State of the Map Brasil 2025</b>, será realizado integrado ao <b>GeoPublica</b> (https://geopublica.ide.ba.gov.br/) de <b>16 a 19 de setembro de 2025</b>, em <b>Salvador-Bahia</b>, em formato presencial. Esta é uma convocatória para todos os mapeadores, pesquisadores e usuários de dados que desejam compartilhar suas reflexões, experiências e trabalhos científicos.
 
 O State of the Map <b>Latin America</b> será realizado de 04 a 06 de setembro de 2025 em Medellín-Colômbia e maiores detalhes podem ser encontratos em https://www.osmlatam.org/sotm/2025-es/
 
