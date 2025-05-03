@@ -13,12 +13,6 @@ As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 20
 
 ### Clique nas imagens para abrir o mapa de localização de ambos os locais, na versão interativa!!
 
-<!-- <div id="map" style="height:400px; width:100%"></div>
-
-[Clique aqui para conferir o mapa completo do Tribunal de Justiça!!](https://sotm-br.github.io/2025/venue/map) -->
-
-<!-- ![Clique para conferir o mapa interativo com os principais pontos de interesse!!]() -->
-
 <a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a>
 
 [E aos usuários de OSMAnd, aqui estão os mesmos pontos em formato .gpx](https://sotm-br.github.io/2025/venue/politecnico.gpx)
@@ -29,8 +23,8 @@ Para chegar no Tribunal de Justiça do Estado da Bahia, a partir da região lito
 * Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu - A partir da Estação de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
   
  [atualizar linhas de onibus]
-* Linha **[469 - Centro Politécnico](https://goo.gl/maps/W9y2srwJcDATgp8M8)**
-* Linha **[303 - Centenário / C. Comprido](https://goo.gl/maps/UevNqTyEXx68wTbY9)**
+* Linha **[XXX](https://goo.gl/maps/W9y2srwJcDATgp8M8)**
+* Linha **[XXX](https://goo.gl/maps/UevNqTyEXx68wTbY9)**
   
 * É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
 
