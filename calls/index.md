@@ -70,8 +70,12 @@ Estratégias de comunicação, divulgação científica e fortalecimento de comu
 
 Os resumos devem ser originais, inéditos e de autoria do remetente, com **800 a 1200 palavras**.
 Inclua no resumo: introdução, objetivo do estudo ou ação, método, resultados/discussões e conclusões.
-Utilize o template disponível em: https://drive.google.com/drive/folders/1sbTRkrMJtRnS_kmn4iJk1paqtdnxblG2
-Todos os resumos devem ser submetidos na plataforma Pretalx (https://tinyurl.com/academic-track-brasil), **até o dia 15 de maio de 2025**.
+Utilize o template disponível em: [Google Drive](https://drive.google.com/drive/folders/1sbTRkrMJtRnS_kmn4iJk1paqtdnxblG2)  
+Todos os resumos devem ser submetidos na plataforma [Pretalx](https://tinyurl.com/academic-track-brasil), **até o dia 15 de maio de 2025**.
+
+<a href="https://tinyurl.com/academic-track-brasil" target="_blank" rel="noopener noreferrer">Plataforma Pretalx</a>
+
+
 Convidamos você a participar deste evento único e trazer suas valiosas contribuições para o avanço do mapeamento e do uso de dados geográficos na América Latina e no Brasil.
 
 Contamos com a sua presença e suas contribuições. Nos vemos em Salvador-Bahia!!!
