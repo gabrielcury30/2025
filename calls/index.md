@@ -14,7 +14,7 @@ headings: "call, submit"
 Em 2025, a submissão, avaliação e publicação do **Academic Track** do State of the Map **Latin American** e do State of the Map **Brasil** serão integradas para facilitar a participação de toda a comunidade. As chamadas para propostas, avaliações e comitê científico serão unificadas (respeitando algumas especificidades) e a divulgação dos resultados será em um único anais, na plataforma Zenodo, com DOI, garantindo mais visibilidade e sinergia entre os eventos.
 Convidamos toda a comunidade a submeter seus trabalhos e a participar dessa **celebração conjunta do OpenStreetMap na América Latina e no Brasil**!!!
 
-O State of the Map **Latin American** será realizado de 04 a 06 de setembro de 2025 em Medellín-Colômbia e maiores detalhes podem ser encontratos em https://www.osmlatam.org/sotm/2025-es/
+O State of the Map **Latin American** será realizado de 04 a 06 de setembro de 2025 em Medellín-Colômbia e maiores detalhes podem ser encontratos em [SotM LatAm](https://www.osmlatam.org/sotm/2025-es/).
 
 Os resumos aprovados serão apresentados em **formato de apresentação oral e pôsteres**.
 Os melhores trabalhos serão indicados para publicação em uma edição especial de revista científica, com novo processo de avaliação próprio da revista.
@@ -72,7 +72,7 @@ Os resumos devem ser originais, inéditos e de autoria do remetente, com **800 a
 
 Inclua no resumo: introdução, objetivo do estudo ou ação, método, resultados/discussões e conclusões.
 
-Utilize o template disponível em: [Google Drive](https://drive.google.com/drive/folders/1sbTRkrMJtRnS_kmn4iJk1paqtdnxblG2)  
+Utilize o template disponível no [Drive](https://drive.google.com/drive/folders/1sbTRkrMJtRnS_kmn4iJk1paqtdnxblG2). 
 
 Todos os resumos devem ser submetidos na plataforma [Pretalx](https://tinyurl.com/academic-track-brasil), **até o dia 15 de maio de 2025**.
 
