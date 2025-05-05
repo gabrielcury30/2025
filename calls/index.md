@@ -14,20 +14,18 @@ headings: "call, submit"
 Em 2025, a submissão, avaliação e publicação do **Academic Track** do State of the Map **Latin American** e do State of the Map **Brasil** serão integradas para facilitar a participação de toda a comunidade. As chamadas para propostas, avaliações e comitê científico serão unificadas (respeitando algumas especificidades) e a divulgação dos resultados será em um único anais, na plataforma Zenodo, com DOI, garantindo mais visibilidade e sinergia entre os eventos.
 Convidamos toda a comunidade a submeter seus trabalhos e a participar dessa **celebração conjunta do OpenStreetMap na América Latina e no Brasil**!!!
 
-O **State of the Map Brasil 2025**, será realizado em parceria com o **GeoPublica** (https://geopublica.ide.ba.gov.br/) de **16 a 19 de setembro de 2025**, em **Salvador-Bahia**, no formato presencial. Esta é uma convocatória para todos os mapeadores, pesquisadores e usuários de dados que desejam compartilhar suas reflexões, experiências e trabalhos científicos.
-
 O State of the Map **Latin American** será realizado de 04 a 06 de setembro de 2025 em Medellín-Colômbia e maiores detalhes podem ser encontratos em https://www.osmlatam.org/sotm/2025-es/
 
-Os resumos aprovados serão apresentados em **formato de apresentação oral e pôsteres**, e incluídos nos anais do evento na plataforma Zenodo.
+Os resumos aprovados serão apresentados em **formato de apresentação oral e pôsteres**.
 Os melhores trabalhos serão indicados para publicação em uma edição especial de revista científica, com novo processo de avaliação próprio da revista.
-Os 3 melhores resumos (avaliados pela comissão científica) e apresentados no evento serão premiados na sessão de encerramento.
+Os 3 melhores resumos (avaliados pela comissão científica) e apresentados no SotM Brasil serão premiados na sessão de encerramento.
 Ao menos 1 dos autores de cada trabalho deverá estar inscrito e presente no evento para apresentar o trabalho e participar da discussão. ​As inscrições são gratuitas.
 Buscamos uma variedade de perspectivas de pesquisas, projetos e experiências relacionados ao OpenStreetMap e suas múltiplas dimensões de aplicação.
 
 
 Os trabalhos serão avaliados pelo comitê científico com base em sua aderência aos temas centrais do GeoPublica e do SotM, relevância para a conferência, qualidade do resumo (fluidez da escrita, coerência entre título, objetivos e conteúdo, etc), inovação e potencial de impacto para a sociedade. Os trabalhos julgados aprovados serão indicados para apresentação oral ou poster, mediante realização de ajustes solicitados pelo comitê.
 
-De forma a integrar as discussões do SotM com as discussões do GeoPublica **até no máximo 50% dos trabalhos aceitos para o evento poderão não envolver o OpenStreetMap, mas devem necessariamente tratar-se de aplicações de ferramentas e dados abertos na gestão pública**. Por outro lado, **estimula-se a produção de trabalhos que contemplem o uso do OpenStreetMap**, em qualquer área do conhecimento. Assim, ao submeter seu trabalho será solicitado que seja indicado qual temática ele contempla:
+De forma a integrar as discussões do SotM Brasil com as discussões do GeoPublica **até no máximo 50% dos trabalhos aceitos para o evento poderão não envolver o OpenStreetMap, mas devem necessariamente tratar-se de aplicações de ferramentas e dados abertos na gestão pública**. Por outro lado, **estimula-se a produção de trabalhos que contemplem o uso do OpenStreetMap**, em qualquer área do conhecimento. Assim, ao submeter seu trabalho será solicitado que seja indicado qual temática ele contempla:
 
 A - Dados abertos para a gestão pública;
 B - OpenStreetMap;
@@ -68,13 +66,12 @@ Abordagens inovadoras para melhoria da coleta e qualidade de dados no OSM, inclu
 Estratégias de comunicação, divulgação científica e fortalecimento de comunidades OpenStreetMap.
 
 
-<h2 id="submit">Instruções para envio:</h2>
+<h2 id="submit">Instruções para envio do SotM Brasil:</h2>
 
 Os resumos devem ser originais, inéditos e de autoria do remetente, com **800 a 1200 palavras**.
 Inclua no resumo: introdução, objetivo do estudo ou ação, método, resultados/discussões e conclusões.
 Utilize o template disponível em: https://drive.google.com/drive/folders/1sbTRkrMJtRnS_kmn4iJk1paqtdnxblG2
-Todos os resumos devem ser submetidos na plataforma Pretalx (https://pretalx.com/), **até o dia 15 de maio de 2025**.
-Os resumos serão avaliados com base em sua relevância para a conferência, qualidade, inovação e potencial de impacto na área.
+Todos os resumos devem ser submetidos na plataforma Pretalx (https://tinyurl.com/academic-track-brasil), **até o dia 15 de maio de 2025**.
 Convidamos você a participar deste evento único e trazer suas valiosas contribuições para o avanço do mapeamento e do uso de dados geográficos na América Latina e no Brasil.
 
 Contamos com a sua presença e suas contribuições. Nos vemos em Salvador-Bahia!!!
