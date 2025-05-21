@@ -11,7 +11,7 @@ O **State of the Map Brasil 2025** será realizado em parceria com o **GeoPublic
 
 As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 2025**, na Escola Politécnica da Universidade Federal da Bahia (UFBA), Rua Aristides Novis, nº 02, Bairro Federação em Salvador-Bahia.
 
-### Clique nas imagens para abrir o mapa de localização de ambos os locais, na versão interativa!!
+### Clique nas imagens para abrir o mapa de localização do Tribunal de Justiça, na versão interativa!!
 
 <a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a>
 
@@ -19,14 +19,15 @@ As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 20
 
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
-Para chegar no Tribunal de Justiça do Estado da Bahia, a partir da região litorânea ou do centro da cidade:
+Para chegar no Tribunal de Justiça do Estado da Bahia:
 * Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu - A partir da Estação de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
   
- [atualizar linhas de onibus]
-* Linha **[XXX](https://goo.gl/maps/W9y2srwJcDATgp8M8)**
-* Linha **[XXX](https://goo.gl/maps/UevNqTyEXx68wTbY9)**
+* A partir da Estação CAB ou Pituaçu do metrô
+*      A pé por 20 minutos
+*      Linha de ônibus 1225 - Lapa X Sussuarana - parada na 5ª Avenida do Centro Administrativo da Bahia
+*      Linha de ônibus 123001 - Barra R1 x Novos Horizonte  - parada na 5ª Avenida do Centro Administrativo da Bahia
   
-* É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
+* É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta todas as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
 
 O **Aeroporto Luís Eduardo Magalhães** tem conexão com a linha 2 do metrô na Estação Aeroporto, fazendo conexão com outras áreas da cidade.
 
@@ -43,14 +44,14 @@ Também na Escola Politécnica da UFBA há um restaurante interno, na modalidade
 
 <h2 class='space-bottom1' id='accommodation'>Hospedagem</h2>
 
-A universidade não disponibiliza acomodações, então resta aos participantes procurar locais de hospedagem por conta, como em aplicativos e sites de reserva. No entorno da região do CAB, sugestão de hospedagem nos bairros: XXX e YYY. Nas proximidades da UFBA, bairros da Federação, Ondina, Rio Vermelho ou Barra.
+A universidade não disponibiliza acomodações, então resta aos participantes procurar locais de hospedagem por conta, como em aplicativos e sites de reserva.
 
 <h2 class='space-bottom1' id='sights'>Turismo</h2>
 
 Os principais pontos turísticos de Salvador estão distribuídos entre o centro da cidade e a região costeira, devendo ser acessados por transporte. 
-Salvador também conta com o tour da [Linha Turismo](https://www.urbs.curitiba.pr.gov.br/transporte/linha-turismo), um ônibus panorâmico que percorre os cartões postais da cidade
+Salvador também conta com o tour da [Salvador BUS](https://salvadorbus.com.br/), um ônibus panorâmico que percorre os cartões postais da cidade
 
-Outra atração popular é visitar o município de Mata de São João, na localidade de Praia do Forte e entorno...
+Outra atração popular é visitar o município de Mata de São João, na localidade de Praia do Forte e entorno.
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
