@@ -13,10 +13,10 @@ color:
   primary-dark: '#faffff' # yellow
   primary-light: '#00650A' # dark green
   background-light: '#faffff'
-  links: '#38bd59'
+  links: '#007122' #'#38bd59' #updated to #007122
   links-light: '#ebfffd'
   links-white: '#ebfffd'
-  text: '#007122' #'#030304' #6ed487 #updated to #007122
+  text: '#030304' #6ed487
   text-light: '#ebfffd'
 
 # Settings for map tiles used in leaflet maps
