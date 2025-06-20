@@ -72,9 +72,11 @@ Os resumos devem ser originais, inéditos e de autoria do remetente, com **800 a
 
 Inclua no resumo: introdução, objetivo do estudo ou ação, método, resultados/discussões e conclusões.
 
-Utilize o template disponível no [Drive](https://drive.google.com/drive/folders/1sbTRkrMJtRnS_kmn4iJk1paqtdnxblG2). 
+Utilize o template disponível no [Drive](https://drive.google.com/drive/folders/1nzF95ANTwLmMua4MMriyeUuMbUilDjoC). 
 
 Todos os resumos devem ser submetidos na plataforma [Pretalx](https://tinyurl.com/academic-track-brasil), **até o dia 18 de maio de 2025**.
+
+As correções dos resumos devem ser submetidas até o dia **04 de julho de 2025**.
 
 Convidamos você a participar deste evento único e trazer suas valiosas contribuições para o avanço do mapeamento e do uso de dados geográficos na América Latina e no Brasil.
 
