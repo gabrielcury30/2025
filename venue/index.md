@@ -15,7 +15,7 @@ As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 20
 
 <a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a>
 
-[E aos usuários de OSMAnd, aqui estão os mesmos pontos em formato .gpx](https://github.com/nathandamas/2025/blob/main/venue/sotm_brasil_2025.gpx)
+[E aos usuários de OSMAnd, aqui estão os mesmos pontos em formato .gpx](https://github.com/sotm-br/2025/blob/main/venue/sotm_brasil_2025.gpx)
 
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
