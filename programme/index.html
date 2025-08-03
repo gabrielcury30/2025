@@ -42,6 +42,19 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
           <button onclick="showSecondaryTab(event, 'geopublica-content')">
             DIA 2 (17/09)
           </button>
+
+          <button
+            class="sotm-link-btn"
+            onclick="switchToMainTab('sotm', 'sotm-dia18')"
+          >
+            DIA 3 (18/09)
+          </button>
+          <button
+            class="sotm-link-btn"
+            onclick="switchToMainTab('sotm', 'sotm-dia19')"
+          >
+            DIA 4 (19/09)
+          </button>
         </div>
 
         <div id="geopublica-dia16" class="secondary-content active">
@@ -275,6 +288,18 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
       <!-- SEÇÃO STATE OF THE MAP -->
       <div id="sotm-content" class="main-content">
         <div class="secondary-tabs">
+          <button
+            class="geopublica-link-btn"
+            onclick="switchToMainTab('geopublica', 'geopublica-dia16')"
+          >
+            DIA 1 (16/09)
+          </button>
+          <button
+            class="geopublica-link-btn"
+            onclick="switchToMainTab('geopublica', 'geopublica-dia17')"
+          >
+            DIA 2 (17/09)
+          </button>
           <button
             class="active"
             onclick="showSecondaryTab(event, 'sotm-content')"
@@ -653,6 +678,12 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
           >
             17/9
           </button>
+          <button
+            class="prelim-sotm-link-btn"
+            onclick="switchToPrelimMainTab('sotm', 'prelim-sotm-dia18')"
+          >
+            18/9
+          </button>
         </div>
 
         <div
@@ -749,6 +780,18 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
         class="prelim-main-content prelim-sotm-theme"
       >
         <div class="prelim-secondary-tabs">
+          <button
+            class="prelim-geopublica-link-btn"
+            onclick="switchToPrelimMainTab('geopublica', 'prelim-geopublica-dia16')"
+          >
+            16/9
+          </button>
+          <button
+            class="prelim-geopublica-link-btn"
+            onclick="switchToPrelimMainTab('geopublica', 'prelim-geopublica-dia17')"
+          >
+            17/9
+          </button>
           <button
             class="active"
             data-target="prelim-sotm-dia18"

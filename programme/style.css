@@ -373,3 +373,27 @@ ul.speaker-list li {
   padding: 12px;
   text-align: left;
 }
+
+/* --- ESTILO DE COR PARA OS BOTÕES DE NAVEGAÇÃO CRUZADA --- */
+
+#geopublica-content .secondary-tabs .sotm-link-btn {
+  background-color: #e8f5e9;
+  color: #1e7e34;
+}
+
+#sotm-content .secondary-tabs .geopublica-link-btn {
+  background-color: #e7f0f7;
+  color: #004b8d;
+}
+
+/* --- ESTILO DE COR PARA OS BOTÕES DE NAVEGAÇÃO DA GRADE PRELIMINAR --- */
+
+#prelim-sotm-content .prelim-secondary-tabs .prelim-geopublica-link-btn {
+  background-color: #e7f0f7;
+  color: #004b8d;
+}
+
+#prelim-geopublica-content .prelim-secondary-tabs .prelim-sotm-link-btn {
+  background-color: #e8f5e9;
+  color: #1e7e34;
+}
