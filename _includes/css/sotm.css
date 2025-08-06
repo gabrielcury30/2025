@@ -220,7 +220,7 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(img/background/imagem_site1.jpg);
+    background-image: url(img/background/capa_1600x900.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -872,7 +872,6 @@ p img.bio-pic {
 .center {
   text-align: center;
 }
-
 
 /* Mobile
 ------------------------------------------------------- */
