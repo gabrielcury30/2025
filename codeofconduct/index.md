@@ -14,6 +14,5 @@ Se um participante se envolver em comportamento de assédio, os organizadores da
 <!--A equipe da conferência ficará feliz em ajudar os participantes a entrar em contato com a segurança do hotel/Local ou com as autoridades locais, fornecer escoltas ou auxiliar de outras formas aqueles que estão enfrentando assédio, para que se sintam seguros durante a conferência. Valorizamos sua presença.-->
 
 Esperamos que os participantes sigam essas regras em todos os Locais da conferência e eventos relacionados à conferência!
-Informações de Contato
 
 Você pode enviar um e-mail para a equipe organizadora do State of the Map Brasil com quaisquer preocupações em sotmbrasil2025@gmail.com.
