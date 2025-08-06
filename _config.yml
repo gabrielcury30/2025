@@ -1,7 +1,7 @@
 # Site settings
 title: State of the Map Brasil 2025
 email: sotm@openstreetmap.org
-description: "Edição Brasileira do State of The Map, em 2023 será em Curitiba!"
+description: "Edição Brasileira do State of The Map, em 2025 será em Salvador!"
 url: "http://2022.stateofthemap.org" # the base hostname & protocol for your site
 github_username:  sotm-br
 
@@ -11,9 +11,9 @@ markdown: kramdown
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#faffff' # yellow
-  primary-light: '#38bd59' # red
+  primary-light: '#00650A' # dark green
   background-light: '#faffff'
-  links: '#38bd59'
+  links: '#007122' #'#38bd59' #updated to #007122
   links-light: '#ebfffd'
   links-white: '#ebfffd'
   text: '#030304' #6ed487

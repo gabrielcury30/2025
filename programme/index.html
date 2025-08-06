@@ -5,9 +5,886 @@ titlecontent: ""
 headings: "general_Friday,general_Saturday,general_Sunday,breakout"
 ---
 
-<style>
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Programação Completa do Evento 2025</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="main-title">Programação Completa 2025</h1>
 
-    iframe {
+      <div class="main-tabs">
+        <button
+          id="geopublica-main-btn"
+          class="active"
+          onclick="showMainTab(event)"
+        >
+          PROGRAMAÇÃO GEOPUBLICA
+        </button>
+        <button id="sotm-main-btn" onclick="showMainTab(event)">
+          PROGRAMAÇÃO STATE OF THE MAP
+        </button>
+      </div>
+
+      <!-- SEÇÃO GEOPUBLICA -->
+      <div id="geopublica-content" class="main-content active">
+        <div class="secondary-tabs">
+          <button
+            class="active"
+            onclick="showSecondaryTab(event, 'geopublica-content')"
+          >
+            DIA 1 (16/09)
+          </button>
+          <button onclick="showSecondaryTab(event, 'geopublica-content')">
+            DIA 2 (17/09)
+          </button>
+
+          <button
+            class="sotm-link-btn"
+            onclick="switchToMainTab('sotm', 'sotm-dia18')"
+          >
+            DIA 3 (18/09)
+          </button>
+          <button
+            class="sotm-link-btn"
+            onclick="switchToMainTab('sotm', 'sotm-dia19')"
+          >
+            DIA 4 (19/09)
+          </button>
+        </div>
+
+        <div id="geopublica-dia16" class="secondary-content active">
+          <table>
+            <thead>
+              <tr>
+                <th style="font-weight: bold">HORÁRIO</th>
+                <th style="font-weight: bold">Auditório Tribunal de Justiça</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="time-column">8:00</td>
+                <td>Credenciamento e Café de recepção</td>
+              </tr>
+              <tr>
+                <td class="time-column">9:00</td>
+                <td>
+                  <strong style="font-weight: bold"
+                    >Apresentação artística</strong
+                  >
+                  <br />
+                  <strong style="font-weight: bold">Abertura oficial</strong>
+                  <ul class="speaker-list">
+                    <li>• José Acácio (SEI)</li>
+                    <li>• Patrícia Brito (UFBA)</li>
+                    <li>• Cláudio Peixoto (Seplan)</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">9:30</td>
+                <td>
+                  <strong class="event-title">Palestra 1</strong>
+                  • Silvana Camboim (UFPR)
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">10:30</td>
+                <td>
+                  <strong style="font-weight: bold"
+                    >Painel 1 - Inteligência Artificial e Geoinformação</strong
+                  >
+                  <br />
+                  <strong>Moderadora: Fabíola Andrade (UFBA)</strong>
+                  <ul class="speaker-list">
+                    <li>
+                      • Luís Filho (São Tomás/Zuuk) - IA para todos: Como
+                      democratizar a inteligência territorial com dados abertos.
+                    </li>
+                    <li>
+                      • Ronaldo Costa (UFG) - IA e Agentes Inteligentes:
+                      Inovações em Geosistemas e Processos Administrativos no
+                      Setor Público.
+                    </li>
+                    <li>• Luciano Rebouças (UFBA)</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">12:00</td>
+                <td class="centered-event">Almoço</td>
+              </tr>
+              <tr>
+                <td class="time-column">14:00</td>
+                <td>
+                  <strong style="font-weight: bold"
+                    >Palestra 2 - Brazil Data Cube</strong
+                  >
+                  <br />
+                  • Karine Ferreira (INPE)
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">15:00</td>
+                <td>
+                  <strong class="event-title">Coffee Break</strong> <br />
+                  <b style="font-weight: bold"
+                    >Exposição dos autores dos banners SotM BR</b
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">15:50</td>
+                <td>
+                  <strong style="font-weight: bold"
+                    >Painel 2 - Governança de Dados</strong
+                  >
+                  <br />
+                  <strong>Moderador: Cláudio Pelosi (SEI)</strong>
+                  <ul class="speaker-list">
+                    <li>• Jaime da Gama (Gartner Group)</li>
+                    <li>
+                      • Rogério Borba (IBGE - DBDG) - Governança de Dados da
+                      INDE
+                    </li>
+                    <li>
+                      • Marcelo Dourado (SEI) - Política de Governança de Dados
+                      da SEI
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">17:20</td>
+                <td class="centered-event">Encerramento</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div id="geopublica-dia17" class="secondary-content">
+          <table>
+            <thead>
+              <tr>
+                <th style="font-weight: bold">HORÁRIO</th>
+                <th style="font-weight: bold">Auditório Tribunal de Justiça</th>
+                <th style="font-weight: bold">Sala de reunião na SIHS</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="time-column">8:00</td>
+                <td>Credenciamento e Café de recepção</td>
+                <td>
+                  <strong style="font-weight: bold">Reunião Aberta: </strong>
+                  ComMap (Sistema integrado de mapeamento comunitário e formação
+                  de atores locais de áreas vulnerabilizadas).<br />
+                  <strong>Moderadora: Patrícia Brito (UFBA).</strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">9:00</td>
+                <td>
+                  <strong style="font-weight: bold"
+                    >Painel 3 - Geotecnologias integradas na gestão dos recursos
+                    ambientais</strong
+                  >
+                  <br />
+                  <strong>Moderador: Adriano Cassiano (INEMA)</strong>
+                  <ul class="speaker-list">
+                    <li>• Diogo Rosanelli (IMAGEM)</li>
+                    <li>
+                      • Marcos Aurélio (EMBRAPA) - Modelos baseados em agentes
+                      para simulação do impacto de políticas públicas de
+                      incentivo à diversidade da produção agrícola
+                    </li>
+                    <li>
+                      • Rousyana Araújo (Ministério Público/BA) - Projeto Terra
+                      Protegida
+                    </li>
+                  </ul>
+                </td>
+                <td rowspan="4"></td>
+              </tr>
+              <tr>
+                <td class="time-column">10:30</td>
+                <td>
+                  <strong style="font-weight: bold"
+                    >Painel 4 - Produção e Uso da Geoinformação na Gestão
+                    Pública</strong
+                  >
+                  <br />
+                  <strong>Moderador: Anderson Gomes (SEI)</strong>
+                  <ul class="speaker-list">
+                    <li>• Caroline Martins (CONDER)</li>
+                    <li>
+                      • Fábio Sampaio (SEI) - Avanços no Projeto de Atualização
+                      Cartográfica da Bahia
+                    </li>
+                    <li>
+                      • José Rafael de Jesus (INEMA) - Aplicação de
+                      automatização em rotinas de Geoprocessamento
+                    </li>
+                    <li>• Regina Marinho (SIHS)</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">12:00</td>
+                <td class="centered-event">Almoço</td>
+              </tr>
+              <tr>
+                <td class="time-column">14:00</td>
+                <td>
+                  <strong style="font-weight: bold"
+                    >Painel 5 - Geoinformação & Cidades</strong
+                  >
+                  <br />
+                  <strong>Moderador: Harlan Rodrigo (CONDER)</strong>
+                  <ul class="speaker-list">
+                    <li>
+                      • Marcela Fernandes Costa (USP) - Plataforma UrbVerde:
+                      Inteligência Territorial para Políticas Climáticas Locais.
+                    </li>
+                    <li>• Talita Stael (Ministério das Cidades)</li>
+                    <li>
+                      • Mariana Gianotti (USP) - Injustiças Sociais
+                      Identificadas em Análise de Acessibilidade Urbana em São
+                      Paulo com BigData, IA e Dados Abertos.
+                    </li>
+                    <li>• Paulo Zangalli (UFBA)</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">15:30</td>
+                <td>
+                  <strong>Coffee Break</strong> <br />
+                  <b style="font-weight: bold"
+                    >Exposição dos autores dos banners SotM BR</b
+                  ><br />
+                </td>
+                <td rowspan="2"></td>
+              </tr>
+              <tr>
+                <td class="time-column">16:20</td>
+                <td>
+                  <strong style="font-weight: bold" ;>Palestra 3</strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">17:20</td>
+                <td colspan="2" class="centered-event">Encerramento</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- SEÇÃO STATE OF THE MAP -->
+      <div id="sotm-content" class="main-content">
+        <div class="secondary-tabs">
+          <button
+            class="geopublica-link-btn"
+            onclick="switchToMainTab('geopublica', 'geopublica-dia16')"
+          >
+            DIA 1 (16/09)
+          </button>
+          <button
+            class="geopublica-link-btn"
+            onclick="switchToMainTab('geopublica', 'geopublica-dia17')"
+          >
+            DIA 2 (17/09)
+          </button>
+          <button
+            class="active"
+            onclick="showSecondaryTab(event, 'sotm-content')"
+          >
+            DIA 3 (18/09)
+          </button>
+          <button onclick="showSecondaryTab(event, 'sotm-content')">
+            DIA 4 (19/09)
+          </button>
+        </div>
+
+        <div id="sotm-dia18" class="secondary-content active">
+          <table>
+            <thead>
+              <tr>
+                <th style="font-weight: bold">HORÁRIO</th>
+                <th style="font-weight: bold">
+                  Auditório do Tribunal de Justiça
+                </th>
+                <th style="font-weight: bold">Sala de reunião na SIHS</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="time-column">8:00</td>
+                <td>Credenciamento e Café de recepção</td>
+                <td>
+                  <strong class="event-title">Reunião Aberta:</strong> Discussão
+                  sobre Governança e Elaboração de Documentos para o
+                  Observatório do Mapa das Periferias. <br />Moderadora: Talita
+                  Stael (SNP/Ministério das Cidades)
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">9:00</td>
+                <td>
+                  <strong class="event-title"
+                    >Painel 6 - Vozes das Comunidades: Experiências de auto
+                    mapeamento</strong
+                  >
+                  <br />
+                  Moderadora: Marbrisa Reis (UFBA)
+                  <ul class="speaker-list">
+                    <li>
+                      • Marcos Rodrigo Ferreira (Banco Preventório) - Comunidade
+                      Morro do Preventório em Niterói-RJ
+                    </li>
+                    <li>
+                      • Rodrigo Farias e Alexandre Mota (CommuniTech) -
+                      Comunidade Alto do Cabrito em Salvador-BA
+                    </li>
+                  </ul>
+                </td>
+                <td rowspan="2"></td>
+              </tr>
+              <tr>
+                <td class="time-column">10:30</td>
+                <td>
+                  <strong class="event-title"
+                    >Painel 7 - Desafios Contemporâneos da Formação em
+                    Cartografia e Dados Geoespaciais</strong
+                  >
+                  <br />
+                  Moderadora: Vivian Fernandes (UFBA)
+                  <ul class="speaker-list">
+                    <li>
+                      • Alfredo Queiroz Filho (USP) - Formação universitária
+                    </li>
+                    <li>• Ricardo Lustosa (UFOB) - Formação extensionista</li>
+                    <li>
+                      • Silvana Camboim (UFPR) - Formação de técnicos da gestão
+                      pública
+                    </li>
+                    <li>
+                      • Adriano Mascarenhas (Colégio Estadual Dois de
+                      Julho/Fazenda Grande do Retiro) – Ensino fundamental e
+                      Médio
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">12:00</td>
+                <td colspan="2" class="centered-event">
+                  <strong>Almoço</strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">13h30</td>
+                <td>
+                  <strong class="event-title"
+                    >Painel 8 - Mobilidade urbana e Acessibilidade</strong
+                  >
+                  <br />
+                  Moderador: Juan Delgado (UFBA)
+                  <ul class="speaker-list">
+                    <li>
+                      • Jorge Ubirajara (UFBA) - OpenStreetMap para Análises de
+                      Mobilidade e Acessibilidade: Aplicações com osmnx (Python)
+                      e r5r (R)
+                    </li>
+                    <li>• Academic Track - 03 trabalhos</li>
+                  </ul>
+                </td>
+                <td rowspan="3"></td>
+              </tr>
+              <tr>
+                <td class="time-column">15:00</td>
+                <td>
+                  Coffee Break<br /><strong class="event-title"
+                    >Exposição dos autores dos banners SotM BR</strong
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">15:50</td>
+                <td>
+                  <strong class="event-title"
+                    >Painel 9 - Educação e História</strong
+                  >
+                  Moderadora: Isa Neves (HIAC)
+                  <ul class="speaker-list">
+                    <li>• Academic Track - 04 trabalhos</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">17:00</td>
+                <td colspan="2" class="centered-event"></td>
+              </tr>
+              <tr>
+                <td class="time-column">17:20</td>
+                <td colspan="2" class="centered-event">
+                  <strong>Encerramento</strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">19:30</td>
+                <td colspan="2" class="centered-event">
+                  <strong>5º Encontro YouthMappers</strong>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div id="sotm-dia19" class="secondary-content">
+          <table>
+            <thead>
+              <tr>
+                <th style="font-weight: bold">HORÁRIO</th>
+                <th style="font-weight: bold" colspan="5">
+                  UFBA / Escola Politécnica
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="time-column">8:30</td>
+                <td>
+                  Sala 01 - LIACI <br />
+                  <strong class="event-title"
+                    >GEOREDUS - Turma única<br />
+                    Simon Fan (USP)</strong
+                  >
+                </td>
+                <td>
+                  Sala 02 - CARTOLAB <br />
+                  <strong class="event-title">MAPI - Turma única</strong><br />
+                  <strong>Kauê Oliveira (USP)</strong>
+                </td>
+                <td>
+                  Sala 03 - LABGEO <br />
+                  <strong class="event-title"
+                    >Construindo agentes inteligentes - Turma 01<br />
+                    Sandoval Medeiros (SEI)</strong
+                  >
+                </td>
+                <td>
+                  Sala 04 - LABGRAD 1 <br />
+                  <strong class="event-title"
+                    >Mapeamento com Drones de Baixo Custo para Pequenas Áreas -
+                    Turma única<br />
+                    Elmo Bispo (UFBA)</strong
+                  >
+                </td>
+                <td>Sala 05 - LABGRAD 2 <br /></td>
+              </tr>
+              <tr>
+                <td class="time-column">10:00</td>
+                <td colspan="5" class="centered-event">
+                  <strong>Coffee-break</strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">10:30</td>
+                <td>
+                  Sala 01 - LIACI <br />
+                  <strong class="event-title"
+                    >GEOREDUS - Turma única<br />
+                    Simon Fan (USP)</strong
+                  >
+                </td>
+                <td>
+                  Sala 02 - CARTOLAB <br />
+                  <strong class="event-title"
+                    >OSM Skeleton - Turma única<br />
+                    Séverin Menard</strong
+                  >
+                </td>
+                <td>
+                  Sala 03 - LABGEO <br />
+                  <strong class="event-title"
+                    >Construindo agentes inteligentes - Turma 01<br />
+                    Sandoval Medeiros (SEI)</strong
+                  >
+                </td>
+                <td>
+                  Sala 04 - LABGRAD 1 <br />
+                  <strong class="event-title"
+                    >Mapeamento com Drones de Baixo Custo para Pequenas Áreas -
+                    Turma única<br />
+                    Elmo Bispo (UFBA)</strong
+                  >
+                </td>
+                <td>Sala 05 - LABGRAD 2 <br /></td>
+              </tr>
+              <tr>
+                <td class="time-column">11:30</td>
+                <td colspan="5" class="centered-event">
+                  Auditório Magno Valente <br />
+                  <strong class="event-title"
+                    >Atualizações do setor de geotecnologias e sorteio de
+                    brindes</strong
+                  >
+                  <br />
+                  Moderadora: Fernanda Puga (UFBA)
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">12:30</td>
+                <td colspan="5" class="centered-event">
+                  <strong>Almoço</strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">14:00</td>
+                <td>
+                  Sala 01 - LIACI <br />
+                  <strong class="event-title"
+                    >Observatório das Baixadas (OBx) - Turma única<br />
+                    Thaila Silva e Elinaldo Caldas</strong
+                  >
+                </td>
+                <td>
+                  Sala 02 - CARTOLAB <br />
+                  <strong class="event-title"
+                    >PANORAMAX - Turma única<br />
+                    Séverin Menard</strong
+                  >
+                </td>
+                <td>
+                  Sala 03 - LABGEO <br />
+                  <strong class="event-title"
+                    >Construindo agentes inteligentes - Turma 02<br />
+                    Sandoval Medeiros (SEI)</strong
+                  >
+                </td>
+                <td>
+                  Sala 04 - LABGRAD 1 <br />
+                  <strong class="event-title"
+                    >Plataforma +Lugar - Turma única<br />
+                  </strong>
+                </td>
+                <td>
+                  Sala 05 - LABGRAD 2 <br />
+                  <strong class="event-title"
+                    >Mapatona OSM - Turma única<br />
+                  </strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">16:00</td>
+                <td colspan="5" class="centered-event">
+                  <strong>Coffee-break</strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">16:30</td>
+                <td>
+                  Sala 01 - LIACI <br />
+                  <strong class="event-title"
+                    >Observatório das Baixadas (OBx) - Turma única<br />
+                    Thaila Silva e Elinaldo Caldas</strong
+                  >
+                </td>
+                <td>
+                  Sala 02 - CARTOLAB <br />
+                  <strong class="event-title"
+                    >PANORAMAX - Turma única<br />
+                    Séverin Menard</strong
+                  >
+                </td>
+                <td>
+                  Sala 03 - LABGEO <br />
+                  <strong class="event-title"
+                    >Construindo agentes inteligentes - Turma 02<br />
+                    Sandoval Medeiros (SEI)</strong
+                  >
+                </td>
+                <td>
+                  Sala 04 - LABGRAD 1 <br />
+                  <strong class="event-title"
+                    >Introdução ao Drone Tasking Manager e fAIR - Turma única<br />
+                    Marbrisa Reis e Pedro Melhado (YouthMappers at UFBA +
+                    HOT)</strong
+                  >
+                </td>
+                <td>
+                  Sala 05 - LABGRAD 2 <br />
+                  <strong class="event-title"
+                    >Mapatona OSM - Turma única<br />
+                  </strong>
+                </td>
+              </tr>
+              <tr>
+                <td class="time-column">17:30 a 18:00</td>
+                <td colspan="5" class="centered-event">
+                  <strong>Encerramento</strong>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grade Preliminar -->
+    <div class="prelim-container">
+      <h2 class="prelim-title">Grade Preliminar</h2>
+
+      <div class="prelim-main-tabs">
+        <button
+          id="prelim-geopublica-btn"
+          class="active"
+          data-target="prelim-geopublica-content"
+          onclick="showPrelimMainTab(event)"
+        >
+          GEOPUBLICA
+        </button>
+        <button
+          id="prelim-sotm-btn"
+          data-target="prelim-sotm-content"
+          onclick="showPrelimMainTab(event)"
+        >
+          STATE OF THE MAP
+        </button>
+      </div>
+
+      <!-- SEÇÃO GEOPUBLICA - PRELIMINAR -->
+      <div
+        id="prelim-geopublica-content"
+        class="prelim-main-content active prelim-geopublica-theme"
+      >
+        <div class="prelim-secondary-tabs">
+          <button
+            class="active"
+            data-target="prelim-geopublica-dia16"
+            onclick="showPrelimSecondaryTab(event)"
+          >
+            16/9
+          </button>
+          <button
+            data-target="prelim-geopublica-dia17"
+            onclick="showPrelimSecondaryTab(event)"
+          >
+            17/9
+          </button>
+          <button
+            class="prelim-sotm-link-btn"
+            onclick="switchToPrelimMainTab('sotm', 'prelim-sotm-dia18')"
+          >
+            18/9
+          </button>
+        </div>
+
+        <div
+          id="prelim-geopublica-dia16"
+          class="prelim-secondary-content active"
+        >
+          <h2 class="prelim-content-title">Modalidade - Banner Vespertino</h2>
+          <h3 class="blocos">Bloco 01: Qualidade de Dados com OSM</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - ANÁLISE DO IMPACTO DE DADOS CADASTRADOS NO OPENSTREETMAP
+              PARA ATUALIZAÇÃO DA BASE CARTOGRÁFICA OFICIAL EM ÁREA URBANA
+            </li>
+            <li>
+              XXX - APLICAÇÃO DE REGRESSÃO LOGÍSTICA NA AVALIAÇÃO DA QUALIDADE
+              DE DADOS GEOESPACIAIS DE VOLUNTÁRIOS EM MUNICÍPIOS BRASILEIROS
+            </li>
+            <li>
+              XXX - DASHBOARD GEOESPACIAL PARA ANÁLISE INTERATIVA DA QUALIDADE
+              DE TOPÔNIMOS COLABORATIVOS NO OPENSTREETMAP
+            </li>
+          </ul>
+          <h3 class="blocos">Bloco 02: Tecnologias</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - REASONING EM LARGE LANGUAGE MODEL (LLM) PARA VALIDAÇÃO DE
+              TAGS UTILIZADAS NO OPENSTREETMAP
+            </li>
+            <li>
+              XXX - ESTRATÉGIA METODOLÓGICA PARA MAPEAMENTO AEROFOTOGRAMÉTRICO
+              EM ÁREAS COMUNITÁRIAS COM EMPREGO DE DRONES DE BAIXO CUSTO E
+              SOFTWARES DE CÓDIGO ABERTO
+            </li>
+            <li>
+              XXX - GeoReDUS - Plataforma de Dados Georreferenciados para todos
+              os Municípios brasileiros
+            </li>
+            <li>
+              XXX - DESENVOLVIMENTO DE UM DASHBOARD PARA ANÁLISE ESPAÇO-TEMPORAL
+              DAS EDIÇÕES DO OPENSTREETMAP NO BRASIL: UMA ABORDAGEM BASEADA EM
+              CIÊNCIA ABERTA
+            </li>
+            <li>
+              XXX - GeoTracker: Mapeamento Colaborativo com Inteligência
+              Artificial e Dados OSM para Utilização em Campo e Monitoramento de
+              Frotas
+            </li>
+          </ul>
+        </div>
+
+        <div id="prelim-geopublica-dia17" class="prelim-secondary-content">
+          <h2 class="prelim-content-title">Modalidade - Banner Vespertino</h2>
+          <h3 class="blocos">Bloco 03:</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - AVALIAÇÃO DA POTENCIALIDADE DO HIDROGÊNIO VERDE NA BAHIA
+              UTILIZANDO ANÁLISE DE DECISÃO MULTICRITÉRIO
+            </li>
+            <li>
+              XXX - CARACTERIZAÇÃO AMBIENTAL E MORFOMÉTRICA DE BACIAS
+              HIDROGRÁFICAS
+            </li>
+            <li></li>
+          </ul>
+          <h3 class="blocos">Bloco 04: Cidade e Periferia</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - Map2Mitigate: Formação de jovens em comunidades
+              vulnerabilizadas para o mapeamento colaborativo e a redução de
+              riscos de desastres
+            </li>
+            <li>
+              XXX - Leitura Territorial e Mapeamento Colaborativo: Estratégias
+              para Avaliar a Evolução da Autonomia Comunitária
+            </li>
+            <li></li>
+            <li>
+              XXX - O DIREITO À MORADIA O PAPEL DA GEOGRAFIA NO MAPEAMENTO
+              COLABORATIVO: A EXPERIÊNCIA DOS ESTUDANTES DA UNIVERSIDADE FEDERAL
+              DO ACRE COM A FERRAMENTA OPENSTREETMAP
+            </li>
+            <li>
+              XXX - A INSERÇÃO DE TERREIROS NO OPENSTREETMAP COMO DESCONSTRUÇÃO
+              DO RACISMO CARTOGRÁFICO EM SALVADOR
+            </li>
+            <li>
+              XXX - A Experiência de Agentes Comunitárias com Mapeamento Digital
+              Colaborativo no Projeto Periferia Viva
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- SEÇÃO STATE OF THE MAP - PRELIMINAR -->
+      <div
+        id="prelim-sotm-content"
+        class="prelim-main-content prelim-sotm-theme"
+      >
+        <div class="prelim-secondary-tabs">
+          <button
+            class="prelim-geopublica-link-btn"
+            onclick="switchToPrelimMainTab('geopublica', 'prelim-geopublica-dia16')"
+          >
+            16/9
+          </button>
+          <button
+            class="prelim-geopublica-link-btn"
+            onclick="switchToPrelimMainTab('geopublica', 'prelim-geopublica-dia17')"
+          >
+            17/9
+          </button>
+          <button
+            class="active"
+            data-target="prelim-sotm-dia18"
+            onclick="showPrelimSecondaryTab(event)"
+          >
+            18/9
+          </button>
+        </div>
+        <div id="prelim-sotm-dia18" class="prelim-secondary-content active">
+          <h2 class="prelim-content-title">Modalidade - Banner Vespertino</h2>
+          <h3 class="blocos">Bloco 05: Educação</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - Cartografia social e os Objetivos de Desenvolvimento
+              Sustentável: uma experiência com estudantes do 7º ano do ensino
+              fundamental em Belém do Pará
+            </li>
+            <li>
+              XXX - MAPi - Mapeamento Interativo. Cidadania Ativa na Educação
+              Básica
+            </li>
+            <li></li>
+            <li>
+              XXX - DO CELULAR AO MAPA: POTENCIAL ACADÊMICO, TURÍSTICO E
+              URBANÍSTICO DO COMPARTILHAMENTO DE IMAGENS DE NÍVEL DE RUA PARA
+              QUIXADÁ-CE
+            </li>
+          </ul>
+          <h3 class="blocos">Bloco 06: Mobilidade</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - MAPEAMENTO DE PGVS VISANDO A ANÁLISE DA DEMANDA POTENCIAL
+              POR VIAGENS: EVENTUAIS IMPACTOS NA MICROACESSIBILIDADE DE UM
+              BAIRRO PERIFÉRICO
+            </li>
+            <li>
+              XXX - ESTUDO DO MAPEAMENTO DA MOBILIDADE URBANA PENDULAR NA REGIÃO
+              METROPOLITANA DE SALVADOR A PARTIR DE DADOS ABERTOS: UMA ANÁLISE
+              FOCADA EM SIMÕES FILHO
+            </li>
+            <li>
+              XXX - AVALIAÇÃO DAS CONDIÇÕES DE MICROACESSIBILIDADE E INTEGRAÇÃO
+              MODAL EM UM BAIRRO PERIFERICO: UMA BASE DE DADOS COM WEBSIG.
+            </li>
+            <li></li>
+          </ul>
+          <br />
+          <h2 class="prelim-content-title">Modalidade - Oral</h2>
+          <h3 class="blocos">Bloco 07: Acessibilidade</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - Mapeamento de Acessibilidade e Proposição de Rotas
+              Inclusivas: Uma Experiência Didática na Escola Politécnica da UFBA
+            </li>
+            <li>
+              XXX - COMPARANDO SOLUÇÕES DE SISTEMAS INVENTÁRIOS DE CALÇADAS
+              EXISTENTES: POTENCIAIS E LIMITAÇÕES
+            </li>
+            <li>
+              XXX - CARTOGRAFIAS DE EXCLUSÃO: ACESSIBILIDADE URBANA, CORPOS NÃO
+              NORMATIVOS E OS LIMITES DOS MAPAS COLABORATIVOS NO CAMPUS
+              UNIVERSITÁRIO
+            </li>
+          </ul>
+          <h3 class="blocos">Bloco 08: Educação e História</h3>
+          <ul class="prelim-presentation-list">
+            <li>
+              XXX - INVISIBILIDADE CARTOGRÁFICA: COMUNIDADES QUILOMBOLAS NO
+              OPENSTREETMAP
+            </li>
+            <li>
+              XXX - CARTOGRAFIA HISTÓRICA INTELIGENTE: UM ESTUDO APLICADO À
+              EXTRAÇÃO DE VIAS E RIOS EM MAPAS ANTIGOS DE CURITIBA
+            </li>
+            <li>
+              XXX - A educação para o mapeamento colaborativo e os Objetivos do
+              Desenvolvimento Sustentável: Uma experiência com alunos do ensino
+              médio da região metropolitana de Belém do Pará.
+            </li>
+            <li>XXX - PRÁTICAS DE ENSINO DE ENGENHARIA COM OPENSTREETMAP</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+<!--<style>
+
+    /* iframe {
         width:1000px;
         height: 760px;
         padding-left: 2%;
@@ -30,13 +907,12 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
         padding: 1%;
         text-align: center;
 
-    }
+    } */
+</style>-->
 
-</style>
+<!-- <iframe id="gdocs_iframe" name="Programação Preliminar" allowfullscreen="true" src="https://docs.google.com/spreadsheets/d/1rzd0hFj8mGkjRUVmXFyP5D5IFTKr9J4rgHN7sTOY5_g/edit?gid=0#gid=0&range=A1:E11"></iframe> -->
 
-<h1>Programação</h1>
-
-<!-- <a href="https://sotm-br.github.io/2023/programacao_preliminar.html">Confira aqui a programação preliminar!!</a> -->
+<!-- <a href="https://sotm-br.github.io/2025/programacao_preliminar.html">Confira aqui a programação preliminar!!</a>
 
 <iframe id="gdocs_iframe" name="Programação Simplificada" allowfullscreen="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQrbXr_Njk555E4EVArc9rFuSvEA2ByDut5wTKbcaLQulyR32cmdyWcwSbIEtYf1S4SaQ_v-rkcPez/pubhtml?gid=2020432516&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
@@ -46,8 +922,7 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
 
 
 <h2><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQrbXr_Njk555E4EVArc9rFuSvEA2ByDut5wTKbcaLQulyR32cmdyWcwSbIEtYf1S4SaQ_v-rkcPez/pubhtml?gid=711636586&single=true">Confira aqui os Pôsteres!</a> </h2>
-
+ -->
 <!-- {% include schedule/_general.html %} -->
-
 
 <!--{% include _timezoneswitcher.html %}-->

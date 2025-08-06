@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="SotM-BR 2025 GPX v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="-12.999650" minlon="-38.510406" maxlat="-12.945420" maxlon="-38.421340"/>
+  </metadata>
+  <wpt lat="-12.949726" lon="-38.433805">
+    <name>Tribunal de Justiça da Bahia – Auditório</name>
+    <desc>Local do SotM-Brasil 16-18/09</desc>
+    <sym>Building</sym>
+  </wpt>
+  <wpt lat="-12.955730" lon="-38.429010">
+    <name>Estação Metrô CAB</name>
+    <desc>Metrô Linha 2 (CAB)</desc>
+    <sym>Railway Station</sym>
+  </wpt>
+  <wpt lat="-12.945420" lon="-38.421340">
+    <name>Estação Metrô Pituaçu</name>
+    <desc>Metrô Linha 2 (Pituaçu)</desc>
+    <sym>Railway Station</sym>
+  </wpt>
+  <wpt lat="-12.999650" lon="-38.510406">
+    <name>Escola Politécnica / UFBA</name>
+    <desc>Treinamentos SotM-BR 19/09</desc>
+    <sym>University</sym>
+  </wpt>
+  <rte>
+    <name>R1 – Caminhada Estação CAB → Tribunal de Justiça</name>
+    <rtept lat="-12.955730" lon="-38.429010"></rtept>
+    <rtept lat="-12.949726" lon="-38.433805"></rtept>
+  </rte>
+  <rte>
+    <name>R2 – Caminhada Estação Pituaçu → Tribunal de Justiça</name>
+    <rtept lat="-12.945420" lon="-38.421340"></rtept>
+    <rtept lat="-12.949726" lon="-38.433805"></rtept>
+  </rte>
+  <rte>
+    <name>R3 – Caminhada Tribunal de Justiça → Escola Politécnica</name>
+    <rtept lat="-12.949726" lon="-38.433805"></rtept>
+    <rtept lat="-12.999650" lon="-38.510406"></rtept>
+  </rte>
+</gpx>
