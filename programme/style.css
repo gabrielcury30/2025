@@ -20,10 +20,7 @@ h1.main-title {
   margin-bottom: 30px;
   padding: 10px;
   font-weight: bold;
-  background: linear-gradient(to right, #004b8d, #1e7e34);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #80c88a;
 }
 
 /* --- Abas Principais (GeoPublica / SotM) --- */
@@ -51,11 +48,11 @@ h1.main-title {
 }
 
 #geopublica-main-btn.active {
-  background-color: #004b8d;
+  background-color: #608ac7d0;
   color: white;
 }
 #sotm-main-btn.active {
-  background-color: #1e7e34;
+  background-color: #80c88a;
   color: white;
 }
 
@@ -112,11 +109,11 @@ h1.main-title {
 /* #geopublica-content .secondary-tabs { border-bottom: 2px solid #004b8d; } */
 #geopublica-content .secondary-tabs button {
   background-color: #e7f0f7;
-  color: #004b8d;
+  color: #608ac7d0;
 }
 /* #geopublica-content .secondary-content { border-color: #004b8d; } */
 #geopublica-content th {
-  background-color: #004b8d;
+  background-color: #608ac7d0;
   color: white;
   padding: 12px;
   text-align: center;
@@ -130,11 +127,11 @@ h1.main-title {
 /* #sotm-content .secondary-tabs { border-bottom: 2px solid #1e7e34; } */
 #sotm-content .secondary-tabs button {
   background-color: #e8f5e9;
-  color: #1e7e34;
+  color: #80c88a;
 }
 /* #sotm-content .secondary-content { border-color: #1e7e34; } */
 #sotm-content th {
-  background-color: #1e7e34;
+  background-color: #80c88a;
   color: white;
   padding: 12px;
   text-align: center;
@@ -219,10 +216,7 @@ ul.speaker-list li {
   border-top: 2px solid #dee2e6;
   padding: 20px;
   margin-bottom: 25px;
-  background: linear-gradient(to right, #004b8d, #1e7e34);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #80c88a;
 }
 
 /* --- ABAS PRINCIPAIS (GeoPublica / SotM) --- */
@@ -306,20 +300,20 @@ ul.speaker-list li {
 
 /* --- TEMA GEOPUBLICA (AZUL) --- */
 #prelim-geopublica-btn.active {
-  background-color: #004b8d;
+  background-color: #608ac7d0;
 }
 /* .prelim-geopublica-theme .prelim-secondary-tabs {
   border-bottom: 2px solid #004b8d;
 } */
 .prelim-geopublica-theme .prelim-secondary-tabs button {
   background-color: #e7f0f7;
-  color: #004b8d;
+  color: #608ac7d0;
 }
 /* .prelim-geopublica-theme .prelim-secondary-content {
   border: 1px solid #004b8d;
 } */
 .prelim-geopublica-theme .prelim-content-title {
-  background-color: #004b8d;
+  background-color: #608ac7d0;
   color: white;
 }
 
@@ -329,20 +323,20 @@ ul.speaker-list li {
 
 /* --- TEMA SOTM (VERDE) --- */
 #prelim-sotm-btn.active {
-  background-color: #1e7e34;
+  background-color: #80c88a;
 }
 /* .prelim-sotm-theme .prelim-secondary-tabs {
   border-bottom: 2px solid #1e7e34;
 } */
 .prelim-sotm-theme .prelim-secondary-tabs button {
   background-color: #e8f5e9;
-  color: #1e7e34;
+  color: #80c88a;
 }
 /* .prelim-sotm-theme .prelim-secondary-content {
   border: 1px solid #1e7e34;
 } */
 .prelim-sotm-theme .prelim-content-title {
-  background-color: #1e7e34;
+  background-color: #80c88a;
   color: white;
 }
 
@@ -378,22 +372,22 @@ ul.speaker-list li {
 
 #geopublica-content .secondary-tabs .sotm-link-btn {
   background-color: #e8f5e9;
-  color: #1e7e34;
+  color: #80c88a;
 }
 
 #sotm-content .secondary-tabs .geopublica-link-btn {
   background-color: #e7f0f7;
-  color: #004b8d;
+  color: #608ac7d0;
 }
 
 /* --- ESTILO DE COR PARA OS BOTÕES DE NAVEGAÇÃO DA GRADE PRELIMINAR --- */
 
 #prelim-sotm-content .prelim-secondary-tabs .prelim-geopublica-link-btn {
   background-color: #e7f0f7;
-  color: #004b8d;
+  color: #608ac7d0;
 }
 
 #prelim-geopublica-content .prelim-secondary-tabs .prelim-sotm-link-btn {
   background-color: #e8f5e9;
-  color: #1e7e34;
+  color: #80c88a;
 }
