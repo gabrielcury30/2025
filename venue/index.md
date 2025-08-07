@@ -7,22 +7,21 @@ headings: "conference-Local,getting-to,food,accommodation,sights"
 
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
 
-O **State of the Map Brasil 2025** será realizado em parceria com o **GeoPublica 2025** no Auditório do Tribunal de Justiça do Estado da Bahia, localizado na Quinta Avenida do Centro Administrativo da Bahia - CAB em Salvador-Bahia, para os dias **16 a 18 de setembro de 2025**.
+O **State of the Map Brasil 2025** será realizado em parceria com o **GeoPública 2025** no Auditório do Tribunal de Justiça do Estado da Bahia, localizado na Quinta Avenida do Centro Administrativo da Bahia - CAB em Salvador-Bahia, para os dias **16 a 18 de setembro de 2025**.
 
 As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 2025**, na Escola Politécnica da Universidade Federal da Bahia (UFBA), Rua Aristides Novis, nº 02, Bairro Federação em Salvador-Bahia.
 
-### Clique nas imagens para abrir o mapa de localização do Tribunal de Justiça, na versão interativa!!
+### Clique na imagem para abrir o mapa de localização do Tribunal de Justiça, na versão interativa!!
 
 <a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a>
 
-markdown<br>E aos usuários de OSMAnd, aqui estão os mesmos pontos em formato [.gpx](https://raw.githubusercontent.com/sotm-br/2025/main/venue/sotm_brasil_2025.gpx).<br>
+<br>Para os usuários de OSMAnd, aqui estão os pontos de interesse e estações de metrô em formato [.gpx](https://raw.githubusercontent.com/sotm-br/2025/main/venue/sotm_brasil_2025.gpx).<br>
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
-Para chegar no Tribunal de Justiça do Estado da Bahia:
-* Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu - A partir da Estação de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
-  
-* A partir da Estação CAB ou Pituaçu do metrô
-*      A pé por 20 minutos
+Para chegar ao Tribunal de Justiça do Estado da Bahia:
+* Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu
+   
+* A partir dessas Estações de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
 *      Linha de ônibus 1225 - Lapa X Sussuarana - parada na 5ª Avenida do Centro Administrativo da Bahia
 *      Linha de ônibus 123001 - Barra R1 x Novos Horizonte  - parada na 5ª Avenida do Centro Administrativo da Bahia
   
@@ -36,21 +35,28 @@ Além do transporte público, também estão disponíveis em Salvador aplicativo
 
 <h2 class='space-bottom1' id='food'>Alimentação</h2>
 
-Serão servidos coffee breaks ao longo do evento.
+Serão servidos coffee breaks ao longo do evento, conforme previsto na programação.
 Para almoço existe um restaurante na modalidade quilo, dentro do próprio Tribunal de Justiça, e outros restaurantes equivalentes no Centro Administrativo da Bahia (CAB) em diferentes instituições públicas estaduais.
 
 Também na Escola Politécnica da UFBA há um restaurante interno, na modalidade quilo, e outros menores no entorno, com valor acessível.
 
 <h2 class='space-bottom1' id='accommodation'>Hospedagem</h2>
 
-A universidade não disponibiliza acomodações, então resta aos participantes procurar locais de hospedagem por conta, como em aplicativos e sites de reserva.
+A universidade não disponibiliza acomodações, então os participantes podem procurar locais de hospedagem por conta, como em aplicativos e sites de reserva.
 
 <h2 class='space-bottom1' id='sights'>Turismo</h2>
 
-Os principais pontos turísticos de Salvador estão distribuídos entre o centro da cidade e a região costeira, devendo ser acessados por transporte. 
-Salvador também conta com o tour da [Salvador BUS](https://salvadorbus.com.br/), um ônibus panorâmico que percorre os cartões postais da cidade
+Os principais pontos turísticos de Salvador estão distribuídos entre o centro da cidade e a região costeira, devendo ser acessados por transporte. É uma área mais afastada do local de realização dos eventos.
+Salvador também conta com o tour da [Salvador BUS](https://salvadorbus.com.br/), um ônibus panorâmico que percorre os cartões postais da cidade.
 
 Outra atração popular é visitar o município de Mata de São João, na localidade de Praia do Forte e entorno.
+
+<h2 class='space-bottom1' id='accommodation'>Dicas de lugares em Salvador</h2>
+
+A planilha a seguir apresenta uma lista de dicas de lugares em Salvador-Ba: bares, hotéis, hostels, points LGBTQIAPN+ e pontos turísticos.
+<a href="https://docs.google.com/spreadsheets/d/1PUnd7-9tDjtK0imxJxFktHtUZxA2ximg/edit?usp=drive_link&ouid=104542550302449854702&rtpof=true&sd=true;headers=false">Lugares em Salvador!!</a>
+
+<!--
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -71,3 +77,5 @@ Outra atração popular é visitar o município de Mata de São João, na locali
 
   }, false);
 </script>
+
+ -->
