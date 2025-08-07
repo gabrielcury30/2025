@@ -54,7 +54,7 @@ Outra atração popular é visitar o município de Mata de São João, na locali
 <h2 class='space-bottom1' id='accommodation'>Dicas de lugares em Salvador</h2>
 
 A planilha a seguir apresenta uma lista de dicas de lugares em Salvador-Ba: bares, hotéis, hostels, points LGBTQIAPN+ e pontos turísticos.
-<iframe id="gdocs_iframe" name="Lugares em Salvador" allowfullscreen="true" src="https://docs.google.com/spreadsheets/d/1PUnd7-9tDjtK0imxJxFktHtUZxA2ximg/edit?usp=drive_link&ouid=104542550302449854702&rtpof=true&sd=true;headers=false"></iframe>
+<a href="https://docs.google.com/spreadsheets/d/1PUnd7-9tDjtK0imxJxFktHtUZxA2ximg/edit?usp=drive_link&ouid=104542550302449854702&rtpof=true&sd=true;headers=false">Lugares em Salvador!!</a>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
