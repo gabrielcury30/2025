@@ -11,21 +11,25 @@ O **State of the Map Brasil 2025** será realizado em parceria com o **GeoPúbli
 
 As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 2025**, na Escola Politécnica da Universidade Federal da Bahia (UFBA), Rua Aristides Novis, nº 02, Bairro Federação em Salvador-Bahia.
 
-### Clique na imagem para abrir o mapa de localização do Tribunal de Justiça, na versão interativa!!
+### Abaixo está o mapa de localização do Tribunal de Justiça e da Escola Politécnica, respectivamente, na versão interativa!!
 
-<a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a>
+<!-- <a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a> -->
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.43183866183021%2C-12.94807540233661%2C-38.429438084761884%2C-12.946368448025144&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/-12.947222/-38.430638" target="_blank" rel="noreferrer noopener">Ver mapa ampliado</a></small>
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.511580824852%2C-13.000470328786564%2C-38.50918024778367%2C-12.998763734049108&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/-12.999617/-38.510381" target="_blank" rel="noreferrer noopener">Ver mapa ampliado</a></small>
 
 <br>Para os usuários de OSMAnd, aqui estão os pontos de interesse e estações de metrô em formato [.gpx](https://raw.githubusercontent.com/sotm-br/2025/main/venue/sotm_brasil_2025.gpx).<br>
+
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
 Para chegar ao Tribunal de Justiça do Estado da Bahia:
-* Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu
-   
-* A partir dessas Estações de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
-*      Linha de ônibus 1225 - Lapa X Sussuarana - parada na 5ª Avenida do Centro Administrativo da Bahia
-*      Linha de ônibus 123001 - Barra R1 x Novos Horizonte  - parada na 5ª Avenida do Centro Administrativo da Bahia
-  
-* É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta todas as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
+
+- Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu
+- A partir dessas Estações de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
+-      Linha de ônibus 1225 - Lapa X Sussuarana - parada na 5ª Avenida do Centro Administrativo da Bahia
+-      Linha de ônibus 123001 - Barra R1 x Novos Horizonte  - parada na 5ª Avenida do Centro Administrativo da Bahia
+- É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta todas as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
 
 O **Aeroporto Luís Eduardo Magalhães** tem conexão com a linha 2 do metrô na Estação Aeroporto, fazendo conexão com outras áreas da cidade.
 
