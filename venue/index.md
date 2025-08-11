@@ -15,7 +15,7 @@ As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 20
 
 <!-- <a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a> -->
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.43183866183021%2C-12.94807540233661%2C-38.429438084761884%2C-12.946368448025144&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/-12.947222/-38.430638" target="_blank" rel="noreferrer noopener">Ver mapa ampliado</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.435947895050056%2C-12.947824457259701%2C-38.43183875083924%2C-12.944980395395483&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=18/-12.946402/-38.433893" target="_blank" rel="noreferrer noopener">Ver mapa ampliado</a></small>
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.511580824852%2C-13.000470328786564%2C-38.50918024778367%2C-12.998763734049108&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/-12.999617/-38.510381" target="_blank" rel="noreferrer noopener">Ver mapa ampliado</a></small>
 
