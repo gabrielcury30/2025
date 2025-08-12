@@ -1,5 +1,52 @@
 /* --- Configurações Gerais --- */
-body {
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  /* Font Sizes */
+  --h1-font-size: 2.5rem;
+  --h2-font-size: 2rem;
+  --h3-font-size: 1.75rem;
+  --h4-font-size: 1.5rem;
+  --h5-font-size: 1.25rem;
+  --h6-font-size: 1rem;
+  --li-font-size: 1rem;
+
+  /* Colors */
+  --color-01: #608ac7d0;
+  --color-02: #5c6bb2e0;
+  --color-03: #80c88a;
+  --color-04: #c1da6d;
+  --color-05-contrast: #5c6bb2;
+  --color-06-contrast: #a674b2;
+  --color-07-contrast: #cc068ad0;
+  --color-08-contrast: #d52727e0;
+  --main-text-dark-color: #626677;
+
+  /* Gradients */
+  --gradient-01: linear-gradient(135deg, var(--color-01), var(--color-02));
+  --gradient-02: linear-gradient(135deg, var(--color-03), var(--color-04));
+  --gradient-03: linear-gradient(45deg, var(--color-02), var(--color-04));
+  --gradient-04: linear-gradient(
+    45deg,
+    var(--color-05-contrast),
+    var(--color-06-contrast)
+  );
+  --gradient-05: linear-gradient(
+    135deg,
+    var(--color-07-contrast),
+    var(--color-08-contrast)
+  );
+  --gradient-06: linear-gradient(135deg, var(--color-04), var(--color-03));
+  --gradient-06: linear-gradient(135deg, var(--color-04), var(--color-03));
+  --gradient-07: linear-gradient(135deg, var(--color-01), var(--color-03));
+
+  /* Layout */
+  --grid-gap: 2rem;
+  --container-padding: 1rem 0rem 1rem 0rem;
+}
+
+/* Estilos da tabela antiga */
+/* body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
   background-color: #f8f9fa;
@@ -13,7 +60,6 @@ body {
   margin: 60px auto 0 auto;
 }
 
-/* --- Título Programação --- */
 h1.main-title {
   text-align: center;
   font-size: 2.5em;
@@ -23,7 +69,6 @@ h1.main-title {
   color: #80c88a;
 }
 
-/* --- Abas Principais (GeoPublica / SotM) --- */
 .main-tabs {
   text-align: center;
   margin-bottom: 25px;
@@ -72,7 +117,7 @@ h1.main-title {
   }
 }
 
-/* --- Abas Secundárias (Dias do Evento) --- */
+--- Abas Secundárias (Dias do Evento) ---
 .secondary-tabs {
   text-align: center;
   margin-bottom: 0;
@@ -96,7 +141,6 @@ h1.main-title {
 .secondary-content {
   display: none;
   background-color: #fff;
-  /* border: 1px solid; */
   border-top: none;
   border-radius: 0 0 8px 8px;
   overflow-x: auto;
@@ -105,13 +149,12 @@ h1.main-title {
   display: block;
 }
 
-/* --- Estilos Específicos para GEOPUBLICA (Azul) --- */
-/* #geopublica-content .secondary-tabs { border-bottom: 2px solid #004b8d; } */
+--- Estilos Específicos para GEOPUBLICA (Azul) ---
 #geopublica-content .secondary-tabs button {
   background-color: #e7f0f7;
   color: #608ac7d0;
 }
-/* #geopublica-content .secondary-content { border-color: #004b8d; } */
+
 #geopublica-content th {
   background-color: #608ac7d0;
   color: white;
@@ -123,13 +166,12 @@ h1.main-title {
   text-align: center;
 }
 
-/* --- Estilos Específicos para SOTM (Verde) --- */
-/* #sotm-content .secondary-tabs { border-bottom: 2px solid #1e7e34; } */
+--- Estilos Específicos para SOTM (Verde) ---
 #sotm-content .secondary-tabs button {
   background-color: #e8f5e9;
   color: #80c88a;
 }
-/* #sotm-content .secondary-content { border-color: #1e7e34; } */
+
 #sotm-content th {
   background-color: #80c88a;
   color: white;
@@ -146,7 +188,7 @@ h1.main-title {
   font-weight: bold;
 }
 
-/* --- Estilos Gerais de Conteúdo (Tabelas e Listas) --- */
+--- Estilos Gerais de Conteúdo (Tabelas e Listas) ---
 table {
   width: 100%;
   border-collapse: collapse;
@@ -176,12 +218,6 @@ td {
   text-align: left;
 }
 
-.red-text,
-#sotm-content td .red-text,
-#sotm-content td strong.red-text {
-  color: #d93025 !important;
-}
-
 .details {
   font-size: 0.9em;
   color: #555;
@@ -199,6 +235,209 @@ ul.speaker-list li {
   text-align: center;
   font-weight: 500;
   vertical-align: middle;
+} */
+
+/* --- ESTILO DE COR PARA OS BOTÕES DE NAVEGAÇÃO CRUZADA ---
+
+#geopublica-content .secondary-tabs .sotm-link-btn {
+  background-color: #e8f5e9;
+  color: #80c88a;
+}
+
+#sotm-content .secondary-tabs .geopublica-link-btn {
+  background-color: #e7f0f7;
+  color: #608ac7d0;
+} */
+
+/* Estilo da nova tabela de programação geopública + sotm */
+.mobile-titule {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 24px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+#dia4 {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.programacao-section {
+  margin-top: 50px;
+  padding: 50px;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.scrollable {
+  width: 100%;
+}
+
+.tab-pane {
+  display: none;
+}
+
+.tab-pane.active {
+  display: block;
+}
+
+.tabs {
+  display: flex;
+  margin-bottom: 0;
+}
+
+.tab-button {
+  padding: 10px 24px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  margin-right: 2px;
+  box-shadow: unset;
+  border-radius: 5px 5px 0px 0px;
+  color: #757575;
+  background: #ebeced;
+  transition: background 0.2s, color 0.2s;
+}
+
+.tab-button.active {
+  color: #fcfafa;
+  background: var(--color-01);
+}
+
+.tab-content {
+  margin-top: 0;
+}
+
+.table-programming {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0;
+  background: #fff;
+}
+
+.table-programming th,
+.table-programming td {
+  border: 1px solid #e0e0e0;
+  padding: 12px 8px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table-programming th.text-center,
+.table-programming td.text-center {
+  text-align: center;
+}
+
+.tabsections03 th {
+  font-weight: bold;
+  font-family: "Fira Sans", sans-serif;
+  color: #fcfafa;
+  background: var(--gradient-04);
+}
+
+#tabhead {
+  font-weight: bold;
+  font-family: "Fira Sans", sans-serif;
+  color: #fcfafa;
+  background: var(--gradient-01);
+  font-size: 1rem;
+}
+
+.tabsections {
+  font-weight: bold;
+  font-family: "Fira Sans", sans-serif;
+  color: #fcfafa;
+  background: var(--gradient-01);
+}
+
+.tabsections02 {
+  font-weight: bold;
+  font-family: "Fira Sans", sans-serif;
+  color: #fcfafa;
+  background: var(--gradient-02);
+}
+.tabsections03 {
+  font-weight: bold;
+  font-family: "Fira Sans", sans-serif;
+  color: #fcfafa;
+  background: var(--gradient-04);
+}
+
+.td-bold {
+  font-weight: bold;
+}
+
+.palestrantes strong {
+  display: block;
+  margin-bottom: 2px;
+  font-size: 16px;
+  color: var(--main-text-dark-color);
+  font-weight: bold;
+}
+
+.palestrantes small {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: var(--main-text-dark-color);
+}
+
+/*Configurações dos botões da programação*/
+
+.button-geopublica,
+.button-state-of-map {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 0px 10px 10px 0px;
+  border: 1px solid #757575;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  background-color: white;
+  color: black;
+}
+
+.button-geopublica:hover,
+.button-geopublica.active {
+  background: var(--gradient-04);
+  color: white;
+}
+
+.button-geopublica:hover {
+  transform: scale(1.05);
+}
+
+.button-state-of-map:hover,
+.button-state-of-map.active {
+  background: var(--gradient-02);
+  color: white;
+}
+
+.button-state-of-map:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 800px) {
+  .container {
+    padding: 5px;
+  }
+
+  .table-programming th,
+  .table-programming td {
+    font-size: 0.95rem;
+    padding: 8px 4px;
+  }
+
+  .tab-btn {
+    padding: 8px 12px;
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 500px) {
+  /*.table-programming th, .table-programming td { font-size: 0.85rem; padding: 6px 2px; }*/
 }
 
 /* --- ESTILOS GERAIS DO COMPONENTE PRELIMINAR --- */
@@ -212,11 +451,10 @@ ul.speaker-list li {
 .prelim-title {
   text-align: center;
   font-size: 2.2em;
-  color: #343a40;
   border-top: 2px solid #dee2e6;
   padding: 20px;
   margin-bottom: 25px;
-  color: #80c88a;
+  color: #333333;
 }
 
 /* --- ABAS PRINCIPAIS (GeoPublica / SotM) --- */
@@ -265,7 +503,6 @@ ul.speaker-list li {
 }
 .prelim-secondary-tabs button.active {
   background-color: #fff;
-  /* border-bottom: 2px solid #fff; */
 }
 
 /* --- BLOCOS DE CONTEÚDO --- */
@@ -300,20 +537,16 @@ ul.speaker-list li {
 
 /* --- TEMA GEOPUBLICA (AZUL) --- */
 #prelim-geopublica-btn.active {
-  background-color: #608ac7d0;
+  background: var(--gradient-04);
 }
-/* .prelim-geopublica-theme .prelim-secondary-tabs {
-  border-bottom: 2px solid #004b8d;
-} */
+
 .prelim-geopublica-theme .prelim-secondary-tabs button {
   background-color: #e7f0f7;
-  color: #608ac7d0;
+  color: var(--color-02);
 }
-/* .prelim-geopublica-theme .prelim-secondary-content {
-  border: 1px solid #004b8d;
-} */
+
 .prelim-geopublica-theme .prelim-content-title {
-  background-color: #608ac7d0;
+  background: var(--gradient-04);
   color: white;
 }
 
@@ -323,20 +556,16 @@ ul.speaker-list li {
 
 /* --- TEMA SOTM (VERDE) --- */
 #prelim-sotm-btn.active {
-  background-color: #80c88a;
+  background: var(--gradient-02);
 }
-/* .prelim-sotm-theme .prelim-secondary-tabs {
-  border-bottom: 2px solid #1e7e34;
-} */
+
 .prelim-sotm-theme .prelim-secondary-tabs button {
   background-color: #e8f5e9;
-  color: #80c88a;
+  color: var(--color-03);
 }
-/* .prelim-sotm-theme .prelim-secondary-content {
-  border: 1px solid #1e7e34;
-} */
+
 .prelim-sotm-theme .prelim-content-title {
-  background-color: #80c88a;
+  background: var(--gradient-02);
   color: white;
 }
 
@@ -368,26 +597,14 @@ ul.speaker-list li {
   text-align: left;
 }
 
-/* --- ESTILO DE COR PARA OS BOTÕES DE NAVEGAÇÃO CRUZADA --- */
-
-#geopublica-content .secondary-tabs .sotm-link-btn {
-  background-color: #e8f5e9;
-  color: #80c88a;
-}
-
-#sotm-content .secondary-tabs .geopublica-link-btn {
-  background-color: #e7f0f7;
-  color: #608ac7d0;
-}
-
 /* --- ESTILO DE COR PARA OS BOTÕES DE NAVEGAÇÃO DA GRADE PRELIMINAR --- */
 
 #prelim-sotm-content .prelim-secondary-tabs .prelim-geopublica-link-btn {
   background-color: #e7f0f7;
-  color: #608ac7d0;
+  color: var(--color-02);
 }
 
 #prelim-geopublica-content .prelim-secondary-tabs .prelim-sotm-link-btn {
   background-color: #e8f5e9;
-  color: #80c88a;
+  color: var(--color-03);
 }
