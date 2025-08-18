@@ -261,25 +261,47 @@ footer a:focus,
     display: block;
 }
 
+.limite {
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 .intro .intro-body .attending {
-    text-align: center;
-    display: inline-block;
-    width: 80%;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
     border-radius: 16px;
     margin-top: 80px;
     margin-bottom: 40px;
     padding: 1.5em 2em;
-    color: black;
-    background-color: {{ site.color.primary-dark }};
+    /* color: black; */
+    /* background-color: {{ site.color.primary-dark }}; */
+    background: rgba(255, 255, 255, 0.25); /* branco bem transparente */
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.3); /* borda suave */
+    border-radius: 16px;
 }
-.intro .intro-body .attending img {
-    width: 8em;
+
+.logo-img {
+    max-width: 400px;
     height: auto;
-    margin-right: 1em;
-    margin-left: 1em;
-    margin-bottom: 0.7em;
-    margin-top: 0.7em;
 }
+
+.buttons-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
 .intro .intro-body ul {
     list-style-type: '— ';
     text-align: left;
@@ -369,6 +391,10 @@ header.intro .credits {
     }
     header.intro .logo a.btn {
         visibility: hidden;
+    }
+    .limite {
+        max-width: 400px;
+        height: auto;
     }
 }
 
@@ -679,8 +705,22 @@ h3.small-title:before {
 
 /* Newsletter
 ------------------------------------------------------- */
+#newsletter-title {
+    color: #ffffff;
+    font-weight: bold;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
 #newsletter, #streaming, #tickets {
-    background-color: {{ site.color.primary-light }};
+    /* background-color: {{ site.color.primary-light }}; */
+    background: linear-gradient(135deg, #80c88a, #c1da6d);
     background-size: cover;
     background-position-x: center;
     background-position-y: center;
@@ -741,7 +781,11 @@ input#mce-EMAIL::selection {
 #footer {
     font-size: 15px;
     line-height: 1.75em;
-    background-color: {{ site.color.primary-light }};
+    /* background-color: {{ site.color.primary-light }}; */
+    background: linear-gradient(135deg, #80c88a, #c1da6d);
+    color: #ffffff;
+    font-weight: bold;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
     background-size: cover;
     background-position-x: center;
     background-position-y: bottom;
@@ -764,8 +808,9 @@ input#mce-EMAIL::selection {
 nav {
   font-size: 15px;
 }
+
 nav .navbar-brand {
-  font-size: 18px;
+  font-size: 18px; 
 }
 
 .navbar-brand {
