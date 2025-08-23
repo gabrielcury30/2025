@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-custom navbar-fixed-top  {% if page.role != " index" %} top-nav-collapse stay-collapsed {%
+<nav id="navbar-container" class="navbar navbar-custom navbar-fixed-top  {% if page.role != " index" %} top-nav-collapse stay-collapsed {%
     endif %}" role="navigation">
     <div class="limiter">
         <div class="navbar-header">
@@ -12,7 +12,7 @@
         </div>
 
         <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-            <ul class="nav navbar-nav">
+            <ul id="navbar-list" class="nav navbar-nav">
                 <li class="hidden">
                     <a class="page-scroll" href="#page-top"></a>
                 </li>
@@ -37,13 +37,13 @@
                         href="{{site.baseurl}}/presentations/">Apresentações</a>
                 </li>  -->
 
-                <li>
+                <!-- <li>
                     {% if page.role == 'index' %}
                     <a class="page-scroll" href="#sponsors">Parcerias</a>
                     {% else %}
                     <a class="" href="{{site.baseurl}}/#sponsors">Parcerias</a>
                     {% endif %}
-                </li>
+                </li> -->
 
                 <li>
                     <a href="https://www.even3.com.br/geopublica-2025-e-sotm-br-2025-608124/" target="_blank" rel="noopener noreferrer">Inscrição</a> 
