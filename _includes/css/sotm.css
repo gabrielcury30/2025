@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 body {
     width: 100%;
     height: 100%;
@@ -78,10 +80,25 @@ div.affix {
     /*color: {{ site.color.links-light }};*/
     /*color: transparent;*/
     /*color: rgba(0,0,0,0);*/
-    /*color: rgba(98, 255, 0, 1);*/
+    /* color: rgba(98, 255, 0, 1); */
     color: rgba(30, 86, 0, 1);
     font-weight: bold;    
-    background-color: rgba(255,255,255,0.7);
+    /* background-color: rgba(255,255,255,0.7); */
+}
+
+#navbar-container {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    font-size: 1rem;
+}
+
+#navbar-list li a.active {
+    border-bottom: 3px solid #388e3c;
 }
 
 .top-nav-collapse, .top-nav-collapse a, .top-nav-collapse a:hover,
@@ -805,12 +822,17 @@ input#mce-EMAIL::selection {
 /* Navigation
 ------------------------------------------------------- */
 
+/* #nav-teste {
+    background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+} */
+
 nav {
   font-size: 15px;
 }
 
 nav .navbar-brand {
-  font-size: 18px; 
+  font-size: 18px;
 }
 
 .navbar-brand {
