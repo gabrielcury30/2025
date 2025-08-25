@@ -31,6 +31,28 @@ Para chegar ao Tribunal de Justiça do Estado da Bahia:
 -      Linha de ônibus 123001 - Barra R1 x Novos Horizonte  - parada na 5ª Avenida do Centro Administrativo da Bahia
 - É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta todas as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
 
+Para chegar à Escola Politécnica da UFBA:
+
+- Linha de ônibus 0140 (Lapa × Cardeal da Silva)
+- Linha de ônibus 0141 (Hospital Geral do Estado / Federação × Lapa)
+- Linha de ônibus 0213 (Federação × Ribeira, via Dique)
+- Linha de ônibus 0339 (Circular R1 — Comércio × Rodoviária, via Av. Garibalde)
+- Linha de ônibus 0933 (Praça da Sé × Rio das Pedras / Doron)
+- Linha de ônibus 1053 (Barra 3 × Estação Mussurunga)
+- Linha de ônibus 1211 (Barra × Terminal Acesso Norte / Neves, via Av. Vasco da Gama)
+- Linha de ônibus 1239 (Barra × Terminal Acesso Norte / Mata Escura, via Av. Vasco da Gama)
+- Linha de ônibus 1511 (Engenho Velho da Federação × Conjunto Pirajá)
+
+Se você for estudante da UFBA com matrícula ativa, pode utilizar o BUZUFBA, serviço de micro-ônibus gratuito:
+
+- Linha B2 (Reitoria ↔ PAF 1), com paradas na Politécnica aproximadamente às 7:30, 15:00, 11:20 e 18:50.
+- Linha B3 (PAF 1 ↔ Faculdade de Direito), com passagem pela Politécnica às 8:50 e 17:55.
+
+Operador Expresso BUZUFBA (linha circular interna da UFBA):
+
+- ROTA B‑01, B‑02, B‑03, B‑04 e B‑05 (linhas circulares internas da UFBA)
+- 855A.URB Vida Nova / Itinga → Campo Grande / Barra
+
 O **Aeroporto Luís Eduardo Magalhães** tem conexão com a linha 2 do metrô na Estação Aeroporto, fazendo conexão com outras áreas da cidade.
 
 A tarifa nos ônibus de Salvador é de R$ 5,60 e no metrô de R$ 4,10.
