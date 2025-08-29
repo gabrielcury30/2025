@@ -94,7 +94,9 @@ div.affix {
     font-weight: 600;
     font-style: normal;
     font-variation-settings: "wdth" 100;
-    font-size: 1rem;
+    font-size: 15px;
+    width: 100%;
+    height: auto;
 }
 
 #navbar-list li a.active {
