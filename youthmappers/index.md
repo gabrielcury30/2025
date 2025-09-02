@@ -23,7 +23,9 @@ Natália da Silveira Arruda é candidata a doutora em Planejamento Urbano na Sch
 <span style="font-weight: bold;">20:20h Participação dos jovens</span><br>
 Liderança jovem, desafios e oportunidades para os YouthMappers e inspiração para novos capítulos - Adele (online).
 
-<!-- () -->
+Adele Birkenes é mapeadora, com experiência em mapeamento participativo e Sistemas de Informação Geográfica (SIG). Atualmente, trabalha como especialista em SIG na Rede de Sistemas de Alerta Antecipado contra Fome ("Famine Early Warning Systems Network" em inglês). De 2020 a 2025, foi analista geoespacial no GeoCenter da Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID), onde apoiou a gestão da rede YouthMappers. Ela se envolveu com o YouthMappers pela primeira vez quando iniciou um capítulo em sua universidade de graduação, o Vassar College, em Nova York.
+
+Ela está concluindo seu mestrado em Geografia e Meio Ambiente na Universidade George Washington, em Washington, DC, e se formará em maio de 2026. Sua tese de mestrado enfoca as experiências dos capítulos do YouthMappers e os impactos dos cortes de financiamento da USAID na rede. Ela é grata à rede YouthMappers por moldar a trajetória de sua carreira, conectá-la com amigos de todo o mundo e inspirá-la a aprender português!
 
 <span style="font-weight: bold;">20:40h Linha do Tempo dos Capítulos (online e presencial)</span><br>
 Apresentação breve de cada capítulo (3–5 min).<br>
