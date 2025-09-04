@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "Academic Track"
 titlecontent: ""
-headings: "orientacao,autores,apresentacao"
+headings: "orientacao,autores,apresentacao,premiacao"
 ---
 
 <h2 id="orientacao">Orientação aos Autores do Academic Track SOTM Brasil 2025</h2>
@@ -35,3 +35,15 @@ Para os trabalhos na modalidade oral, o template dos slides encontra-se no [driv
 O tempo de apresentação é de 10 minutos por trabalho, dentro do painel de discussão. Ao final das apresentações, o apresentador deve estar disponível para responder às perguntas da plateia e/ou discussões da mesa temática.
 
 Os slides devem ser enviados até o dia 18 de setembro às 12 horas, no e-mail do [SOTMBR](mailto:sotmbrasil2025@gmail.com), para inserção no equipamento de projeção com antecedência.
+
+<h2 id="premiacao">Critérios de escolha dos 03 melhores trabalhos do Academic Track para premiação (em 18/09):</h2>
+
+- Ter recebido nota entre 1,67 e 2,00 - na avaliação por 03 membros do comitê científico (notas entre -2 e 2 no pretalx);
+- Ter efetuado a apresentação do trabalho durante o SotM BR 2025 (pôster ou oral);
+- Ter clareza e originalidade no tema apresentado;
+- Ter impacto na gestão pública com foco em comunidade, meio ambiente ou social;
+- Ter utilizado o OSM na solução apresentada.
+
+Os 04 últimos critérios serão avaliados por membros do comitê científico que não são autores de trabalhos e estarão presentes no evento e membros da CECAR.
+
+Os trabalhos selecionados para serem ampliados para publicação em revista serão divulgados posteriormente ao evento, pois estamos avaliando junto aos editores de duas revistas de impacto na área.
