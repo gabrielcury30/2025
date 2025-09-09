@@ -15,20 +15,22 @@ headings: "encontro"
 Contextualização sobre o encontro YouthMappers e apresentação da agenda do encontro.
 <br>Recepção / apresentação dos participantes.
 
-<span style="font-weight: bold;">20:00h Trajetória do YouthMappers</span><br>
-Trajetória da rede YouthMappers, importância dos capítulos no contexto global e perspectivas para os próximos anos - Natália (online).
+<span style="font-weight: bold;">20:00h Linha do Tempo dos Capítulos (online e presencial)</span><br>
+Apresentação breve de cada capítulo (3–5 min).<br>
+Projetos já realizados, ações em andamento e perspectivas futuras.
 
-Natália da Silveira Arruda é candidata a doutora em Planejamento Urbano na School of Geographical Sciences and Urban Planning (SGSUP) da Arizona State University. Seus interesses de pesquisa concentram-se na interseção entre integração do uso do solo e do transporte, desenho participativo e justiça processual. Após se formar em Arquitetura e Urbanismo pela Universidade Federal do Rio Grande do Sul, em Porto Alegre/RS, Natália decidiu expandir seu foco de interesse da escala do edifício para a escala da cidade. Realizou o mestrado em Planejamento Territorial, Urbano, Ambiental e Paisagístico no Politécnico de Turim, na Itália. Em seguida, mudou-se para a Colômbia, onde atuou como professora na Universidad de Antioquia, em Medellín, por sete anos antes de iniciar o doutorado. Natália co-fundou, em 2016, Geolab, capítulo parte do consórcio global YouthMappers e foi Embaixadora Regional do YouthMappers para Colômbia e Brasil nas gestões 2019-2020 e 2020-2021. Atualmente, é Secretária do capítulo da YouthMappers na ASU.
+<!-- Trajetória da rede YouthMappers, importância dos capítulos no contexto global e perspectivas para os próximos anos - Natália (online).
 
-<span style="font-weight: bold;">20:20h Participação dos jovens</span><br>
+Natália da Silveira Arruda é candidata a doutora em Planejamento Urbano na School of Geographical Sciences and Urban Planning (SGSUP) da Arizona State University. Seus interesses de pesquisa concentram-se na interseção entre integração do uso do solo e do transporte, desenho participativo e justiça processual. Após se formar em Arquitetura e Urbanismo pela Universidade Federal do Rio Grande do Sul, em Porto Alegre/RS, Natália decidiu expandir seu foco de interesse da escala do edifício para a escala da cidade. Realizou o mestrado em Planejamento Territorial, Urbano, Ambiental e Paisagístico no Politécnico de Turim, na Itália. Em seguida, mudou-se para a Colômbia, onde atuou como professora na Universidad de Antioquia, em Medellín, por sete anos antes de iniciar o doutorado. Natália co-fundou, em 2016, Geolab, capítulo parte do consórcio global YouthMappers e foi Embaixadora Regional do YouthMappers para Colômbia e Brasil nas gestões 2019-2020 e 2020-2021. Atualmente, é Secretária do capítulo da YouthMappers na ASU. -->
+
+<span style="font-weight: bold;">20:30h Participação dos jovens</span><br>
 Liderança jovem, desafios e oportunidades para os YouthMappers e inspiração para novos capítulos - Adele (online).
 
 Adele Birkenes é mapeadora, com experiência em mapeamento participativo e Sistemas de Informação Geográfica (SIG). Atualmente, trabalha como especialista em SIG na Rede de Sistemas de Alerta Antecipado contra Fome ("Famine Early Warning Systems Network" em inglês). De 2020 a 2025, foi analista geoespacial no GeoCenter da Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID), onde apoiou a gestão da rede YouthMappers. Ela se envolveu com o YouthMappers pela primeira vez quando iniciou um capítulo em sua universidade de graduação, o Vassar College, em Nova York.
 
 Ela está concluindo seu mestrado em Geografia e Meio Ambiente na Universidade George Washington, em Washington, DC, e se formará em maio de 2026. Sua tese de mestrado enfoca as experiências dos capítulos do YouthMappers e os impactos dos cortes de financiamento da USAID na rede. Ela é grata à rede YouthMappers por moldar a trajetória de sua carreira, conectá-la com amigos de todo o mundo e inspirá-la a aprender português!
 
-<span style="font-weight: bold;">20:40h Linha do Tempo dos Capítulos (online e presencial)</span><br>
-Apresentação breve de cada capítulo (3–5 min).<br>
-Projetos já realizados, ações em andamento, perspectivas futuras e parcerias.
+<span style="font-weight: bold;">20:50h Parcerias</span><br>
+Discussão de possíveis parcerias entre capítulos.
 
 <span style="font-weight: bold;">Encerramento - Dinâmica de Interação.</span>
