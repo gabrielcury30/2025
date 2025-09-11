@@ -23,7 +23,7 @@ As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 20
 
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
-Para chegar ao Tribunal de Justiça do Estado da Bahia:
+<span style="font-weight: bold;">Para chegar ao Tribunal de Justiça do Estado da Bahia:</span>
 
 - Estação de Metrô - Linha 02 - Estação CAB ou Estação Pituaçu
 - A partir dessas Estações de Metrô, há linhas de ônibus exclusivas para o CAB, que param em frente ao Tribunal de Justiça.
@@ -31,7 +31,18 @@ Para chegar ao Tribunal de Justiça do Estado da Bahia:
 -      Linha de ônibus 123001 - Barra R1 x Novos Horizonte  - parada na 5ª Avenida do Centro Administrativo da Bahia
 - É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta todas as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
 
-Para chegar à Escola Politécnica da UFBA:
+<span style="font-weight: bold;">Para o deslocamento dentro do CAB:</span>
+
+O <span style="font-weight: bold;">Sistema CIRCULAR METRÔ/CAB</span> opera gratuitamente no Centro Administrativo da Bahia – CAB. É um serviço gratuito que faz o deslocamento de pessoas que circulam pelo CAB até o metrô Estação CAB e Estação Pituaçu.
+São ônibus acessíveis, e são equipados com ar condicionado e rede wifi.
+Horário: 06h00 as 19h00.
+
+<span style="font-weight: bold;">Mapa do itinerário do ônibus da LINHA 01 ESTAÇÃO CAB - ESTAÇÃO PITUAÇU do Governo da Bahia - Cab (Circular)</span>
+
+![Mapa Cab Circular](mapa-cab-circular.png)
+fonte: [moovit](https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-linha_01_esta%C3%87%C3%83o_cab_esta%C3%87%C3%83o_pitua%C3%87u-Salvador-1882-1045925-9363765-0)
+
+<span style="font-weight: bold;">Para chegar à Escola Politécnica da UFBA:</span>
 
 - Linha de ônibus 0140 (Lapa × Cardeal da Silva)
 - Linha de ônibus 0141 (Hospital Geral do Estado / Federação × Lapa)
@@ -43,12 +54,12 @@ Para chegar à Escola Politécnica da UFBA:
 - Linha de ônibus 1239 (Barra × Terminal Acesso Norte / Mata Escura, via Av. Vasco da Gama)
 - Linha de ônibus 1511 (Engenho Velho da Federação × Conjunto Pirajá)
 
-Se você for estudante da UFBA com matrícula ativa, pode utilizar o BUZUFBA, serviço de micro-ônibus gratuito:
+<span style="font-weight: bold;">Se você for estudante da UFBA com matrícula ativa, pode utilizar o BUZUFBA, serviço de micro-ônibus gratuito:</span>
 
 - Linha B2 (Reitoria ↔ PAF 1), com paradas na Politécnica aproximadamente às 7:30, 15:00, 11:20 e 18:50.
 - Linha B3 (PAF 1 ↔ Faculdade de Direito), com passagem pela Politécnica às 8:50 e 17:55.
 
-Operador Expresso BUZUFBA (linha circular interna da UFBA):
+<span style="font-weight: bold;">Operador Expresso BUZUFBA (linha circular interna da UFBA):</span>
 
 - ROTA B‑01, B‑02, B‑03, B‑04 e B‑05 (linhas circulares internas da UFBA)
 - 855A.URB Vida Nova / Itinga → Campo Grande / Barra
